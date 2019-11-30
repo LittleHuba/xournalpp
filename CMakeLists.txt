@@ -313,6 +313,7 @@ message("
 Configuration:
 	Compiler:                   ${CMAKE_CXX_COMPILER}
 	CppUnit enabled:            ${ENABLE_CPPUNIT}
+	Audio enabled:              ${ENABLE_AUDIO}
 ")
 
 option(CMAKE_DEBUG_INCLUDES_LDFLAGS "List include dirs and ldflags for xournalpp target" OFF)

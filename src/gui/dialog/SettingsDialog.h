@@ -20,9 +20,6 @@
 #include "DeviceClassConfigGui.h"
 
 class ButtonConfigGui;
-#ifndef ENABLE_AUDIO
-class DeviceInfo {};
-#endif
 
 class SettingsDialog : public GladeGui
 {
