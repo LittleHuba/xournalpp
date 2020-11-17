@@ -2,19 +2,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-18 01:43+0000\n"
-"PO-Revision-Date: 2019-10-18 01:51\n"
-"Last-Translator: Ulrich Huber (LittleHuba)\n"
+"POT-Creation-Date: 2019-10-18 03:06+0100\n"
+"PO-Revision-Date: 2020-11-17 08:51\n"
+"Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
-"X-Generator: crowdin.com\n"
 "X-Crowdin-Project: xournalpp\n"
+"X-Crowdin-Project-ID: 363247\n"
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /master/po/xournalpp.pot\n"
+"X-Crowdin-File-ID: 6\n"
 
 #: ../src/control/XournalMain.cpp:564
 msgid "\n\n"
@@ -39,7 +40,7 @@ msgstr "%F-Заметка-%H-%M"
 
 #: ../src/gui/dialog/SettingsDialog.cpp:107
 msgid "<b>No devices were found. This seems wrong - maybe file a bug report?</b>"
-msgstr "<b>Устройства не найдены. Должно быть что-то не так - может отправить отчёт об ошибке?</b>"
+msgstr "<b>Устройства не найдены. Видимо что-то не так - может отправить отчёт об ошибке?</b>"
 
 #: ../src/control/XournalMain.cpp:560
 msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
@@ -82,29 +83,29 @@ msgstr "Прикрепить файл к журналу"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:140
 msgid "Attribute \"{1}\" could not be parsed as double, the value is \"{2}\""
-msgstr "Атрибут «{1}» не может быть обработан как double, значение «{2}»"
+msgstr "Атрибут \"{1}\" не может быть обработан как double, значение: \"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:132
 msgid "Attribute \"{1}\" could not be parsed as double, the value is nullptr"
-msgstr ""
+msgstr "Атрибут \"{1}\" не может быть обработан как double, значение: нулевой указатель"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:160
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:183
 msgid "Attribute \"{1}\" could not be parsed as int, the value is \"{2}\""
-msgstr "Атрибут «{1}» не может быть обработан как int, значение «{2}»"
+msgstr "Атрибут \"{1}\" не может быть обработан как int, значение: \"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:152
 msgid "Attribute \"{1}\" could not be parsed as int, the value is nullptr"
-msgstr ""
+msgstr "Атрибут \"{1}\" не может быть обработан как int, значение: нулевой указатель"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:205
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:228
 msgid "Attribute \"{1}\" could not be parsed as size_t, the value is \"{2}\""
-msgstr "Атрибут «{1}» не может быть обработан как size_t, значение «{2}»"
+msgstr "Атрибут \"{1}\" не может быть обработан как size_t, значение: \"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:197
 msgid "Attribute \"{1}\" could not be parsed as size_t, the value is nullptr"
-msgstr ""
+msgstr "Атрибут \"{1}\" не может быть обработан как size_t, значение: нулевой указатель"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:70
 msgid "Attribute color not set!"
@@ -163,11 +164,11 @@ msgstr "Изменить шрифт"
 
 #: ../src/undo/FillUndoAction.cpp:96
 msgid "Change stroke fill"
-msgstr "Изменить заполнение черты"
+msgstr "Изменить заливку контура"
 
 #: ../src/undo/SizeUndoAction.cpp:118
 msgid "Change stroke width"
-msgstr "Изменить ширину черты"
+msgstr "Изменить толщину линии"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:98
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
@@ -212,7 +213,8 @@ msgstr "Не удалось найти pdflatex в PATH.\n"
 #: ../src/control/LatexController.cpp:104
 msgid "Could not find the LaTeX package 'standalone'.\n"
 "Please install standalone (found in texlive-latex-extra) and make sure it's accessible by your LaTeX installation."
-msgstr ""
+msgstr "Не удалось найти пакет standalone для LaTeX.\n"
+"Пожалуйста, установите standalone (входит в состав texlive-latex-extra) и убедитесь, что он доступен в вашей сборке LaTeX."
 
 #: ../src/control/LatexController.cpp:449
 msgid "Could not load LaTeX PDF file"
@@ -431,7 +433,7 @@ msgstr "Нарисовать систему координат"
 
 #: ../src/undo/InsertUndoAction.cpp:32
 msgid "Draw stroke"
-msgstr "Рисовать черту"
+msgstr "Нарисовать линию"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:95
 msgid "Drawing Type - don't change"
@@ -448,7 +450,7 @@ msgstr "Экстренно сохраненный документ"
 #: ../src/undo/AddUndoAction.cpp:90 ../src/undo/DeleteUndoAction.cpp:85
 #: ../src/undo/EraseUndoAction.cpp:113
 msgid "Erase stroke"
-msgstr "Удалить черту"
+msgstr "Стереть линию"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:62
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:285
@@ -480,7 +482,7 @@ msgstr "Ошибка при чтении PDF: {1}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:631
 msgid "Error reading width of a stroke: {1}"
-msgstr "Ошибка чтения ширины черты: {1}"
+msgstr "Ошибка чтения толщины линии: {1}"
 
 #: ../src/control/jobs/ImageExport.cpp:128
 msgid "Error save image #1"
@@ -613,7 +615,7 @@ msgstr "Вставить элементы"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:65 ../src/undo/InsertUndoAction.cpp:40
 msgid "Insert image"
-msgstr "Вставка изображения"
+msgstr "Вставить изображение"
 
 #: ../src/undo/InsertUndoAction.cpp:44
 msgid "Insert latex"
@@ -921,7 +923,7 @@ msgstr "Поворот"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:383
 msgid "Rotation Snapping"
-msgstr "Фиксация повотора"
+msgstr "Фиксация поворота"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:22
 msgid "Ruled"
@@ -1239,7 +1241,7 @@ msgstr "Неизвестный тип pixmap::domain: {1}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:726
 msgid "Unknown stroke type: \"{1}\", assuming pen"
-msgstr "Неизвестный тип черты: \"{1}\", предполагается, что это перо"
+msgstr "Неизвестный тип линии: \"{1}\", предположительно, перо"
 
 #: ../src/control/Control.cpp:2666
 msgid "Unsaved Document"
@@ -1389,7 +1391,7 @@ msgstr "по умолчанию включен"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:289
 msgid "delete stroke"
-msgstr "удалить черту"
+msgstr "удалить линию"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:277
 msgid "dotted"
@@ -1438,7 +1440,7 @@ msgstr "стандартный"
 
 #: ../src/undo/AddUndoAction.cpp:115 ../src/undo/DeleteUndoAction.cpp:109
 msgid "stroke"
-msgstr "черта"
+msgstr "линия"
 
 #: ../src/undo/AddUndoAction.cpp:124 ../src/undo/DeleteUndoAction.cpp:118
 msgid "text"
@@ -1748,8 +1750,8 @@ msgstr "Все страницы"
 #: ../ui/settings.glade:3389
 msgid "All three conditions must be met before stroke is ignored.\n"
 "It must be short in time and length and we can't have ignored another stroke recently."
-msgstr "Все три условия должны быть выполнены прежде чем штрих будет проигнорирован.\n"
-"Штрих должен быть коротким по времени и по длине, и не должно быть недавно проигнорированных штрихов."
+msgstr "Все три условия должны быть выполнены, прежде чем штрих будет проигнорирован.\n"
+"Штрих должен быть коротким по времени и по длине, а также не должно быть других недавно проигнорированных штрихов."
 
 #: ../ui/settings.glade:3823
 msgid "Audio Devices"
@@ -1801,7 +1803,7 @@ msgstr "Цвет рамки для текущей страницы и други
 
 #: ../ui/about.glade:127
 msgid "Built on"
-msgstr ""
+msgstr "Сборка от"
 
 #: ../ui/settings.glade:1201
 msgid "Button 1"
@@ -1861,7 +1863,7 @@ msgstr "Удалить слой"
 
 #: ../ui/settingsButtonConfig.glade:132
 msgid "Delete stroke"
-msgstr "Удалить черту"
+msgstr "Удалить линию"
 
 #: ../ui/main.glade:2106
 msgid "Delete this page"
@@ -1897,7 +1899,7 @@ msgstr "Калибровка DPI дисплея"
 
 #: ../ui/settings.glade:3264
 msgid "Do not draw for inputs of short time and length unless it comes in short succession. Instead, show floating toolbox."
-msgstr "Игнорировать короткие (по времени и по длине) входные данные, если они не происходят в быстрой последовательности. Вместо этого показать плавающий набор инструментов."
+msgstr "Игнорировать короткие (по времени и длине) непоследовательные штрихи. Вместо этого показать плавающую панель инструментов."
 
 #: ../ui/settings.glade:641 ../ui/settings.glade:808 ../ui/settings.glade:3177
 msgid "Drag LEFT from start point acts like shift key is being held.\n"
@@ -2035,7 +2037,7 @@ msgstr "Коэффициент усиления"
 
 #: ../ui/about.glade:153
 msgid "Git commit"
-msgstr ""
+msgstr "Git коммит"
 
 #: ../ui/settings.glade:2107
 msgid "Global"
@@ -2079,7 +2081,7 @@ msgstr "Скрыть вертикальную прокрутку"
 
 #: ../ui/settings.glade:2137
 msgid "Highlight cursor position"
-msgstr "Положение курсора маркера"
+msgstr "Выделить положение курсора"
 
 #: ../ui/main.glade:1714
 msgid "Highlighter Opti_ons"
@@ -2088,7 +2090,7 @@ msgstr "Параметры _маркера"
 #: ../ui/settings.glade:3310
 msgid "How short (screen mm)  of the stroke  AND...\n\n"
 "<i>Recommended: 1 mm</i>"
-msgstr "Насколько короткий (длина в мм) штрих И...\n\n"
+msgstr "Насколько коротка (в мм) линия И...\n\n"
 "<i>Рекомендуется: 1 мм</i>"
 
 #: ../ui/settings.glade:3290
@@ -2287,7 +2289,7 @@ msgstr "Чувствительность к нажатию"
 
 #: ../ui/about.glade:167
 msgid "RELEASE_IDENTIFIER"
-msgstr ""
+msgstr "RELEASE_IDENTIFIER"
 
 #: ../ui/exportSettings.glade:127
 msgid "Range"
@@ -2315,7 +2317,7 @@ msgstr "Правая кнопка мыши"
 
 #: ../ui/settings.glade:3084
 msgid "Rotation snapping tolerance"
-msgstr "Допуск при фиксации поворота"
+msgstr "Допустимое отклонение при фиксации поворота"
 
 #: ../ui/settings.glade:3855
 msgid "Sample Rate"
@@ -2391,7 +2393,7 @@ msgstr "Привязка"
 
 #: ../ui/settings.glade:2572
 msgid "Speed for Ctrl + Scroll"
-msgstr "Скорость для Ctrl + Scroll"
+msgstr "Скорость для Ctrl + прокрутка"
 
 #: ../ui/settings.glade:2600
 msgid "Speed for a Zoomstep"
@@ -2740,7 +2742,7 @@ msgstr "_Вид"
 
 #: ../ui/main.glade:1699
 msgid "_delete strokes"
-msgstr "_удалить черту"
+msgstr "_удалить линии"
 
 #: ../ui/main.glade:1481 ../ui/main.glade:1627 ../ui/main.glade:1736
 msgid "_fine"
