@@ -2,19 +2,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-18 01:43+0000\n"
-"PO-Revision-Date: 2019-10-18 01:51\n"
-"Last-Translator: Ulrich Huber (LittleHuba)\n"
+"POT-Creation-Date: 2019-10-18 03:06+0100\n"
+"PO-Revision-Date: 2020-11-17 08:51\n"
+"Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: crowdin.com\n"
 "X-Crowdin-Project: xournalpp\n"
+"X-Crowdin-Project-ID: 363247\n"
 "X-Crowdin-Language: zh-TW\n"
 "X-Crowdin-File: /master/po/xournalpp.pot\n"
+"X-Crowdin-File-ID: 6\n"
 
 #: ../src/control/XournalMain.cpp:564
 msgid "\n\n"
@@ -35,7 +36,7 @@ msgstr "頁，共{1}頁"
 
 #: ../src/control/settings/Settings.cpp:103
 msgid "%F-Note-%H-%M"
-msgstr ""
+msgstr "%F-筆記-%H-%M"
 
 #: ../src/gui/dialog/SettingsDialog.cpp:107
 msgid "<b>No devices were found. This seems wrong - maybe file a bug report?</b>"
@@ -162,7 +163,7 @@ msgstr "改變字型"
 
 #: ../src/undo/FillUndoAction.cpp:96
 msgid "Change stroke fill"
-msgstr ""
+msgstr "改變筆劃粗細"
 
 #: ../src/undo/SizeUndoAction.cpp:118
 msgid "Change stroke width"
@@ -214,23 +215,23 @@ msgstr ""
 
 #: ../src/control/LatexController.cpp:449
 msgid "Could not load LaTeX PDF file"
-msgstr ""
+msgstr "無法加載LaTeX PDF文檔"
 
 #: ../src/control/LatexController.cpp:432
 msgid "Could not load LaTeX PDF file, File Error: {1}"
-msgstr ""
+msgstr "無法加載LaTeX PDF文檔, 檔案錯誤: {1}"
 
 #: ../src/control/LatexController.cpp:440
 msgid "Could not load LaTeX PDF file: {1}"
-msgstr ""
+msgstr "無法加載LaTeX PDF文檔: {1}"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:17
 msgid "Could not load pagetemplates.ini file"
-msgstr ""
+msgstr "無法加載 pagetemplates.ini 文檔"
 
 #: ../src/control/xojfile/LoadHandler.cpp:946
 msgid "Could not open attachment: {1}. Error message: Could not read file"
-msgstr ""
+msgstr "無法打開附件: {1}。錯誤消息: 無法讀取文檔"
 
 #: ../src/control/xojfile/LoadHandler.cpp:955
 msgid "Could not open attachment: {1}. Error message: Could not write file"
@@ -548,11 +549,11 @@ msgstr "跳轉到頁面"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:410
 msgid "Go to previous layer"
-msgstr ""
+msgstr "回到上一層"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:412
 msgid "Go to top layer"
-msgstr ""
+msgstr "前往最上層"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:25
 msgid "Graph"
@@ -579,7 +580,7 @@ msgstr "手形工具"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:82
 msgid "Hide all"
-msgstr ""
+msgstr "隱藏全部"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:63
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:433
@@ -593,7 +594,7 @@ msgstr "圖片"
 
 #: ../src/control/XournalMain.cpp:252
 msgid "Image file successfully created"
-msgstr ""
+msgstr "圖片檔案成功建立"
 
 #: ../src/control/XournalMain.cpp:303
 msgid "Image output filename (.png / .svg)"
@@ -729,12 +730,13 @@ msgstr ""
 
 #: ../src/plugin/Plugin.cpp:381 ../src/plugin/Plugin.cpp:402
 msgid "OK"
-msgstr ""
+msgstr "確定"
 
 #: ../src/control/jobs/BaseExportJob.cpp:101
 msgid "Only local files are supported\n"
 "Path: {1}"
-msgstr ""
+msgstr "只支援本地系統\n"
+"Path: {1}"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:11
 msgid "Open Image"
@@ -791,7 +793,7 @@ msgstr "PDF輸出檔案名"
 
 #: ../src/control/jobs/CustomExportJob.cpp:22
 msgid "PDF with plain background"
-msgstr ""
+msgstr "空白背景PDF"
 
 #: ../src/control/jobs/CustomExportJob.cpp:23
 msgid "PNG graphics"
@@ -897,7 +899,7 @@ msgstr ""
 
 #: ../src/util/XojMsgBox.cpp:82
 msgid "Replace"
-msgstr ""
+msgstr "替換"
 
 #: ../src/control/xojfile/LoadHandler.cpp:1276
 msgid "Requested temporary file was not found for attachment {1}"
@@ -905,11 +907,11 @@ msgstr ""
 
 #: ../src/control/XournalMain.cpp:183
 msgid "Restore file"
-msgstr ""
+msgstr "還原檔案"
 
 #: ../src/undo/RotateUndoAction.cpp:60
 msgid "Rotation"
-msgstr ""
+msgstr "旋轉"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:383
 msgid "Rotation Snapping"
@@ -929,7 +931,7 @@ msgstr "標尺"
 
 #: ../src/control/jobs/CustomExportJob.cpp:25
 msgid "SVG graphics"
-msgstr ""
+msgstr "svg圖形"
 
 #: ../src/control/jobs/CustomExportJob.cpp:26
 msgid "SVG with transparent background"
@@ -2035,7 +2037,7 @@ msgstr ""
 
 #: ../ui/main.glade:1714
 msgid "Highlighter Opti_ons"
-msgstr ""
+msgstr "螢光筆選項(_o)"
 
 #: ../ui/settings.glade:3310
 msgid "How short (screen mm)  of the stroke  AND...\n\n"
@@ -2211,15 +2213,15 @@ msgstr "畫筆選項(_O)"
 
 #: ../ui/plugin.glade:14
 msgid "Plugin Manager"
-msgstr ""
+msgstr "外掛總管"
 
 #: ../ui/main.glade:1877
 msgid "Plugin _Manager"
-msgstr ""
+msgstr "外掛總管(_M)"
 
 #: ../ui/plugin.glade:121
 msgid "Plugin changes are only applied after Xournal++ was restarted"
-msgstr ""
+msgstr "修改後必須重新啟動 Xournal++"
 
 #: ../ui/main.glade:440
 msgid "Preferences"
@@ -2636,7 +2638,7 @@ msgstr "畫筆(_P)"
 
 #: ../ui/main.glade:1866
 msgid "_Plugin"
-msgstr ""
+msgstr "外掛(_P)"
 
 #: ../ui/main.glade:475
 msgid "_Presentation Mode"
