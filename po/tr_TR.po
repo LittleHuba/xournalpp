@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-11-20 12:39\n"
+"PO-Revision-Date: 2020-11-20 13:41\n"
 "Last-Translator: \n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -27,7 +27,7 @@ msgstr "\n\n"
 msgid "\n"
 "Will now attempt to run without this file."
 msgstr "\n"
-"Will now attempt to run without this file."
+"Şimdi bu dosya olmadan çalıştırma denenecek."
 
 #: ../src/gui/MainWindow.cpp:743
 msgctxt "Page {pagenumber} \"of {pagecount}\""
@@ -1590,7 +1590,9 @@ msgstr "<b>Xournal++ Şablon Sayfasını Yapılandır</b>\n"
 msgid "<b>Copy last page</b>\n"
 "Use the settings above\n"
 "for the fist Page"
-msgstr ""
+msgstr "<b>Son sayfayı kopyala</b>\n"
+"İlk Sayfa için yukarıdaki\n"
+"ayarları kullanın"
 
 #: ../ui/toolbarCustomizeDialog.glade:86
 msgid "<b>Default Tools</b>"
@@ -1822,11 +1824,11 @@ msgstr "Sayfa Şablonlarını Yapılandır"
 
 #: ../ui/pageTemplate.glade:185
 msgid "Copy last page settings"
-msgstr ""
+msgstr "Son sayfa ayarlarını kopyala"
 
 #: ../ui/pageTemplate.glade:296
 msgid "Copy last page size"
-msgstr ""
+msgstr "Son sayfa boyutunu kopyala"
 
 #: ../ui/exportSettings.glade:158
 msgid "Current page"
@@ -2222,7 +2224,7 @@ msgstr "_Önceki açıklamalı Sayfa"
 
 #: ../ui/pageTemplate.glade:18
 msgid "Page Template"
-msgstr ""
+msgstr "Sayfa Şablonu"
 
 #: ../ui/exportSettings.glade:175
 msgid "Pages:"
