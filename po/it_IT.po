@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-11-17 08:52\n"
+"PO-Revision-Date: 2020-11-20 23:10\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -202,7 +202,7 @@ msgstr "Impossibile creare la cartella: {1}"
 
 #: ../src/control/LatexController.cpp:99
 msgid "Could not find kpsewhich in PATH; please install kpsewhich and put it on path."
-msgstr ""
+msgstr "Impossibile trovare kpsewhich nel PATH; si prega di installare kpsewhich e aggiungerlo al path."
 
 #: ../src/control/LatexController.cpp:75
 msgid "Could not find pdflatex in PATH.\n"
@@ -1582,13 +1582,16 @@ msgstr "<b>Colore</b>"
 #: ../ui/pageTemplate.glade:110
 msgid "<b>Configure Xournal++ Template Page</b>\n"
 "This settings will be used if you create a new document"
-msgstr ""
+msgstr "<b>Configura la Pagina Template di Xournal++</b>\n"
+"Queste impostazioni saranno usate quando creerai un nuovo documento"
 
 #: ../ui/pageTemplate.glade:241 ../ui/pageTemplate.glade:282
 msgid "<b>Copy last page</b>\n"
 "Use the settings above\n"
 "for the fist Page"
-msgstr ""
+msgstr "<b>Copia l'ultima pagina</b>\n"
+"Usa queste impostazioni\n"
+"per la prima pagina"
 
 #: ../ui/toolbarCustomizeDialog.glade:86
 msgid "<b>Default Tools</b>"
@@ -1830,11 +1833,11 @@ msgstr "Configura Template Pagina"
 
 #: ../ui/pageTemplate.glade:185
 msgid "Copy last page settings"
-msgstr ""
+msgstr "Copia le impostazioni dell'ultima pagina"
 
 #: ../ui/pageTemplate.glade:296
 msgid "Copy last page size"
-msgstr ""
+msgstr "Copia le dimensioni dell'ultima pagina"
 
 #: ../ui/exportSettings.glade:158
 msgid "Current page"
@@ -2230,7 +2233,7 @@ msgstr "P_recedente pagina annotata"
 
 #: ../ui/pageTemplate.glade:18
 msgid "Page Template"
-msgstr ""
+msgstr "Template Pagina"
 
 #: ../ui/exportSettings.glade:175
 msgid "Pages:"
