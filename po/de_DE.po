@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-11-17 08:52\n"
+"PO-Revision-Date: 2020-11-22 17:26\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -1822,11 +1822,11 @@ msgstr "Seitenvorlage konfigurieren"
 
 #: ../ui/pageTemplate.glade:185
 msgid "Copy last page settings"
-msgstr ""
+msgstr "Eigenschaften der letzten Seite kopieren"
 
 #: ../ui/pageTemplate.glade:296
 msgid "Copy last page size"
-msgstr ""
+msgstr "Größe der letzten Seite kopieren"
 
 #: ../ui/exportSettings.glade:158
 msgid "Current page"
@@ -2222,7 +2222,7 @@ msgstr "Vorherige beschriftete Seite"
 
 #: ../ui/pageTemplate.glade:18
 msgid "Page Template"
-msgstr ""
+msgstr "Seitenvorlage"
 
 #: ../ui/exportSettings.glade:175
 msgid "Pages:"
