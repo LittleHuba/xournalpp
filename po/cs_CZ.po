@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-11-20 13:41\n"
+"PO-Revision-Date: 2020-11-22 10:27\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1741,7 +1741,7 @@ msgstr "Přidat další vodorovný prostor"
 
 #: ../ui/settings.glade:2892
 msgid "Add additional vertical space of"
-msgstr "Přidat další horizontální prostor"
+msgstr "Přidat další svislý prostor"
 
 #: ../ui/exportSettings.glade:142
 msgid "All pages"
