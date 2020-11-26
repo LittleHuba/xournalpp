@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-11-17 08:51\n"
+"PO-Revision-Date: 2020-11-26 13:23\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -202,7 +202,7 @@ msgstr "无法创建文件夹：{1}"
 
 #: ../src/control/LatexController.cpp:99
 msgid "Could not find kpsewhich in PATH; please install kpsewhich and put it on path."
-msgstr ""
+msgstr "无法在系统 PATH 路径下找到 kpsewhich; 请安装 kpsewhich 并将其加入到 PATH路径中。"
 
 #: ../src/control/LatexController.cpp:75
 msgid "Could not find pdflatex in PATH.\n"
@@ -1583,13 +1583,16 @@ msgstr "<b>颜色</b>"
 #: ../ui/pageTemplate.glade:110
 msgid "<b>Configure Xournal++ Template Page</b>\n"
 "This settings will be used if you create a new document"
-msgstr ""
+msgstr "<b>配置 Xournal++ 模板页面</b>\n"
+"创建新文档时将会使用此配置"
 
 #: ../ui/pageTemplate.glade:241 ../ui/pageTemplate.glade:282
 msgid "<b>Copy last page</b>\n"
 "Use the settings above\n"
 "for the fist Page"
-msgstr ""
+msgstr "<b>复制最后一页</b>\n"
+"使用上面的设置\n"
+"来查看fist 页面"
 
 #: ../ui/toolbarCustomizeDialog.glade:86
 msgid "<b>Default Tools</b>"
@@ -1821,11 +1824,11 @@ msgstr "配置页模板"
 
 #: ../ui/pageTemplate.glade:185
 msgid "Copy last page settings"
-msgstr ""
+msgstr "复制最后一页的设置"
 
 #: ../ui/pageTemplate.glade:296
 msgid "Copy last page size"
-msgstr ""
+msgstr "复制最后一页的大小"
 
 #: ../ui/exportSettings.glade:158
 msgid "Current page"
@@ -2218,7 +2221,7 @@ msgstr "上一注释页(_r)"
 
 #: ../ui/pageTemplate.glade:18
 msgid "Page Template"
-msgstr ""
+msgstr "页面模板"
 
 #: ../ui/exportSettings.glade:175
 msgid "Pages:"
