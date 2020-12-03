@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-11-17 08:52\n"
+"PO-Revision-Date: 2020-12-03 17:03\n"
 "Last-Translator: \n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
@@ -20,17 +20,19 @@ msgstr ""
 #: ../src/control/XournalMain.cpp:564
 msgid "\n\n"
 "Will now attempt to run without this file."
-msgstr ""
+msgstr "\n\n"
+"अभी यह फाइल के बिना चलाने की कोशिस करेंगे ।"
 
 #: ../src/control/XournalMain.cpp:544
 msgid "\n"
 "Will now attempt to run without this file."
-msgstr ""
+msgstr "\n"
+"अभी यह फाइल के बिना चलाने की कोशिस करेंगे ।"
 
 #: ../src/gui/MainWindow.cpp:743
 msgctxt "Page {pagenumber} \"of {pagecount}\""
 msgid " of {1}{2}"
-msgstr ""
+msgstr " {1}{2} का"
 
 #: ../src/control/settings/Settings.cpp:103
 msgid "%F-Note-%H-%M"
@@ -38,7 +40,7 @@ msgstr ""
 
 #: ../src/gui/dialog/SettingsDialog.cpp:107
 msgid "<b>No devices were found. This seems wrong - maybe file a bug report?</b>"
-msgstr ""
+msgstr "<b>कोई डिवाइस नहीं मिले। कुछ तो गड़बड़ है — कृपया एक बग रिपोर्ट फाइल कीजिए </b>"
 
 #: ../src/control/XournalMain.cpp:560
 msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
