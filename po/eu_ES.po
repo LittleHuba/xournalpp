@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-11-17 08:52\n"
+"PO-Revision-Date: 2020-12-05 12:15\n"
 "Last-Translator: \n"
 "Language-Team: Basque\n"
 "Language: eu_ES\n"
@@ -1825,7 +1825,7 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:296
 msgid "Copy last page size"
-msgstr ""
+msgstr "Kopiatu azken orriaren tamaina"
 
 #: ../ui/exportSettings.glade:158
 msgid "Current page"
@@ -2221,7 +2221,7 @@ msgstr "Aurreko oharpen orria"
 
 #: ../ui/pageTemplate.glade:18
 msgid "Page Template"
-msgstr ""
+msgstr "Orrialde txantiloia"
 
 #: ../ui/exportSettings.glade:175
 msgid "Pages:"
