@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-12-05 13:15\n"
+"PO-Revision-Date: 2020-12-06 23:26\n"
 "Last-Translator: \n"
 "Language-Team: Basque\n"
 "Language: eu_ES\n"
@@ -460,7 +460,7 @@ msgstr "Ezabagailua"
 #: ../src/control/Control.cpp:2485
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
-msgstr "Errorea PDF oharpenak fitxategian \"{1}\"\n"
+msgstr "Errorea PDF oharrak fitxategian \"{1}\"\n"
 "{2}"
 
 #: ../src/gui/GladeGui.cpp:22
@@ -721,7 +721,7 @@ msgstr "Hurrengoa"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:414
 msgid "Next annotated page"
-msgstr "Hurrengo oharren orria"
+msgstr "Hurrengo ohar-orria"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:42
 msgid "No device"
@@ -2188,7 +2188,7 @@ msgstr "Mugitu gora"
 
 #: ../ui/main.glade:1066
 msgid "N_ext annotated page"
-msgstr "Hurrengo oharren orria"
+msgstr "Hurrengo ohar-orria"
 
 #: ../ui/main.glade:1113
 msgid "New Page _After"
@@ -2220,7 +2220,7 @@ msgstr "Irteerako gailua"
 
 #: ../ui/main.glade:1077
 msgid "P_revious annotated Page"
-msgstr "Aurreko oharpen orria"
+msgstr "Aurreko ohar-orria"
 
 #: ../ui/pageTemplate.glade:18
 msgid "Page Template"
@@ -2591,7 +2591,7 @@ msgstr "_8 errenkada"
 
 #: ../ui/main.glade:199
 msgid "_Annotate PDF"
-msgstr "_PDF oharpenak"
+msgstr "_PDF oharrak"
 
 #: ../ui/main.glade:593
 msgid "_Bottom to Top"
