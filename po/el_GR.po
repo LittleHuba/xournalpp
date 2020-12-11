@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-11-17 08:52\n"
+"PO-Revision-Date: 2020-12-11 12:30\n"
 "Last-Translator: \n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -202,7 +202,7 @@ msgstr "Δεν ήταν δυνατή η δημιουργία του φακέλο
 
 #: ../src/control/LatexController.cpp:99
 msgid "Could not find kpsewhich in PATH; please install kpsewhich and put it on path."
-msgstr ""
+msgstr "Το kpsewhich δεν βρέθηκε στο PATH; Παρακαλώ εγκαταστήστε το kpsewhich και τοποθετήστε το στο PATH."
 
 #: ../src/control/LatexController.cpp:75
 msgid "Could not find pdflatex in PATH.\n"
@@ -1583,7 +1583,8 @@ msgstr "<b>Χρωμά</b>"
 #: ../ui/pageTemplate.glade:110
 msgid "<b>Configure Xournal++ Template Page</b>\n"
 "This settings will be used if you create a new document"
-msgstr ""
+msgstr "<b>Διαμόρφωση πρότυπης σελίδας Xournal++</b>\n"
+"Αυτές οι ρυθμίσεις θα χρησιμοποιούνται κατά την δημιουργία νέων εγγράφων"
 
 #: ../ui/pageTemplate.glade:241 ../ui/pageTemplate.glade:282
 msgid "<b>Copy last page</b>\n"
@@ -1821,11 +1822,11 @@ msgstr "Ρύθμιση Πρότυπου Σελίδων"
 
 #: ../ui/pageTemplate.glade:185
 msgid "Copy last page settings"
-msgstr ""
+msgstr "Αντιγραφή ρυθμίσεων προηγούμενης σελίδας"
 
 #: ../ui/pageTemplate.glade:296
 msgid "Copy last page size"
-msgstr ""
+msgstr "Αντιγραφή μεγέθους προηγούμενης σελίδας"
 
 #: ../ui/exportSettings.glade:158
 msgid "Current page"
@@ -2221,7 +2222,7 @@ msgstr "Π_ροηγούμενη σημειωμένη Σελίδα"
 
 #: ../ui/pageTemplate.glade:18
 msgid "Page Template"
-msgstr ""
+msgstr "Πρότυπο σελίδας"
 
 #: ../ui/exportSettings.glade:175
 msgid "Pages:"
