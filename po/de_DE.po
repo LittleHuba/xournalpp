@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-12-11 17:27\n"
+"PO-Revision-Date: 2020-12-11 18:28\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -202,7 +202,7 @@ msgstr "Konnte den Ordner \"{1}\" nicht erstellen"
 
 #: ../src/control/LatexController.cpp:99
 msgid "Could not find kpsewhich in PATH; please install kpsewhich and put it on path."
-msgstr ""
+msgstr "Konnte kpsewhich nicht in der Umgebungsvariable PATH finden. Bitte installieren Sie kpsewhich und stellen Sie sicher, das es in der Umgebungsvariable PATH eingetragen ist."
 
 #: ../src/control/LatexController.cpp:75
 msgid "Could not find pdflatex in PATH.\n"
@@ -1583,7 +1583,8 @@ msgstr "<b>Farbe</b>"
 #: ../ui/pageTemplate.glade:110
 msgid "<b>Configure Xournal++ Template Page</b>\n"
 "This settings will be used if you create a new document"
-msgstr ""
+msgstr "<b>Xournal++ Seitenvorlage konfigurieren</b>\n"
+"Diese Einstellungen werden für neue Dokumente verwendet"
 
 #: ../ui/pageTemplate.glade:241 ../ui/pageTemplate.glade:282
 msgid "<b>Copy last page</b>\n"
