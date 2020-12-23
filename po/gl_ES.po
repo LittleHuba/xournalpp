@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-12-23 18:56\n"
+"PO-Revision-Date: 2020-12-23 19:52\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -40,7 +40,7 @@ msgstr "%F-Nota-%H-%M"
 
 #: ../src/gui/dialog/SettingsDialog.cpp:107
 msgid "<b>No devices were found. This seems wrong - maybe file a bug report?</b>"
-msgstr ""
+msgstr "<b>Non se atoparon dispositivos. Parece que vai mal - Enviar un informe de erro?</b>"
 
 #: ../src/control/XournalMain.cpp:560
 msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
@@ -49,159 +49,166 @@ msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
 "  Not relative\n"
 "  Not in the Working Path\n"
 "  Not in {2}"
-msgstr ""
+msgstr "<span foreground='red' size='x-large'>Falta un ficheiro imprescindíbel de IU:\n"
+"<b>{1}</b></span>\n"
+"Non se puido atopar en ningunha localización.\n"
+"  Non nunha relativa\n"
+"  Non no camiño de traballo\n"
+"  Non en {2}"
 
 #: ../src/control/XournalMain.cpp:305
 msgid "Absolute path for the audio files playback"
-msgstr ""
+msgstr "Camiño absoluto para a reprodución de ficheiros de audio"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:436
 msgid "Add/Edit Tex"
-msgstr ""
+msgstr "Engadir/Editar texto"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:45
 msgid "All files"
-msgstr ""
+msgstr "Engadir ficheiros"
 
 #: ../src/control/pagetype/PageTypeMenu.cpp:234
 msgid "Apply to all pages"
-msgstr ""
+msgstr "Aplicar a todas as páxinas"
 
 #: ../src/control/pagetype/PageTypeMenu.cpp:224
 msgid "Apply to current page"
-msgstr ""
+msgstr "Aplicar á páxina actual"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:30
 #: ../src/control/stockdlg/XojOpenDlg.cpp:132
 msgid "Attach file to the journal"
-msgstr ""
+msgstr "Xuntar ficheiro ao diario"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:140
 msgid "Attribute \"{1}\" could not be parsed as double, the value is \"{2}\""
-msgstr ""
+msgstr "No se puido procesar o atributo «{1}» como dobre, o valor é «{2}»"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:132
 msgid "Attribute \"{1}\" could not be parsed as double, the value is nullptr"
-msgstr ""
+msgstr "No se puido procesar o atributo «{1}» como dobre, o valor é «nullptr»"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:160
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:183
 msgid "Attribute \"{1}\" could not be parsed as int, the value is \"{2}\""
-msgstr ""
+msgstr "No se puido procesar o atributo «{1}» como «int», o valor é «{2}»"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:152
 msgid "Attribute \"{1}\" could not be parsed as int, the value is nullptr"
-msgstr ""
+msgstr "O atributo «{1}» non se puido procesar como «int», o valor é «nullptr»"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:205
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:228
 msgid "Attribute \"{1}\" could not be parsed as size_t, the value is \"{2}\""
-msgstr ""
+msgstr "No se puido procesar o atributo «{1}» como «size_t», o valor é «{2}»"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:197
 msgid "Attribute \"{1}\" could not be parsed as size_t, the value is nullptr"
-msgstr ""
+msgstr "O atributo «{1}» non se puido analizar como «size_t», o valor é «nullptr»"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:70
 msgid "Attribute color not set!"
-msgstr ""
+msgstr "Atributo de cor non definido!"
 
 #: ../src/control/AudioController.cpp:127
 msgid "Audio folder not set! Recording won't work!\n"
 "Please set the recording folder under \"Preferences > Audio recording\""
-msgstr ""
+msgstr "O cartafol de son non está configurado! A gravación non funcionará!\n"
+"Configure o cartafol de gravación en «Preferencias > Gravación de son»"
 
 #: ../src/control/Control.cpp:256
 msgid "Autosave failed with an error: {1}"
-msgstr ""
+msgstr "O autogardado fallou e deitou o erro: {1}"
 
 #: ../src/control/Control.cpp:218
 msgid "Autosave renamed from {1} to {2}"
-msgstr ""
+msgstr "Renomeouse o autogardado de {1} a {2}"
 
 #: ../src/control/jobs/AutosaveJob.cpp:54
 msgid "Autosaving to {1}"
-msgstr ""
+msgstr "Autogardado en {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:405
 msgid "Back"
-msgstr ""
+msgstr "Volver"
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayerEntry.cpp:20
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:237
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:287
 msgid "Background"
-msgstr ""
+msgstr "Fondo"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:8
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:121
 msgid "Black"
-msgstr ""
+msgstr "Negro"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:12
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:125
 msgid "Blue"
-msgstr ""
+msgstr "Azul"
 
 #: ../src/control/Control.cpp:2264 ../src/control/Control.cpp:2794
 #: ../src/control/XournalMain.cpp:133
 msgid "Cancel"
-msgstr ""
+msgstr "Anular"
 
 #: ../src/undo/ColorUndoAction.cpp:105
 msgid "Change color"
-msgstr ""
+msgstr "Trocar cor"
 
 #: ../src/undo/FontUndoAction.cpp:120
 msgid "Change font"
-msgstr ""
+msgstr "Cambiar tipo de letra"
 
 #: ../src/undo/FillUndoAction.cpp:96
 msgid "Change stroke fill"
-msgstr ""
+msgstr "Cambiar recheo de trazo"
 
 #: ../src/undo/SizeUndoAction.cpp:118
 msgid "Change stroke width"
-msgstr ""
+msgstr "Cambiar largura de trazo"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:98
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
-msgstr ""
+msgstr "A cor «{1}» é descoñecida (non está recollida na lista de cores predeterminada)!"
 
 #: ../src/gui/sidebar/indextree/SidebarIndexPage.cpp:257
 msgid "Contents"
-msgstr ""
+msgstr "Contido"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:375
 #: ../src/gui/toolbarMenubar/model/ToolbarModel.cpp:97
 #: ../src/gui/toolbarMenubar/model/ToolbarModel.cpp:105
 msgid "Copy"
-msgstr ""
+msgstr "Copiar"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:30
 msgid "Copy current"
-msgstr ""
+msgstr "Copiar o actual"
 
 #: ../src/undo/CopyUndoAction.cpp:69
 msgid "Copy page"
-msgstr ""
+msgstr "Copiar a páxina"
 
 #: ../src/control/jobs/SaveJob.cpp:121
 msgid "Could not create backup! (The file was created from an older Xournal version)"
-msgstr ""
+msgstr "Non se puido crear a copia de seguranza! (O ficheiro creouse cunha antiga versión de Xournal)"
 
 #: ../src/util/Util.cpp:120
 msgid "Could not create folder: {1}"
-msgstr ""
+msgstr "Non se puido crear o cartafol: {1}"
 
 #: ../src/control/LatexController.cpp:99
 msgid "Could not find kpsewhich in PATH; please install kpsewhich and put it on path."
-msgstr ""
+msgstr "No se puido atopar «kpsewhich» no PATH; instáleo e póñao no PATH."
 
 #: ../src/control/LatexController.cpp:75
 msgid "Could not find pdflatex in PATH.\n"
 "Please install pdflatex first and make sure it's in the PATH."
-msgstr ""
+msgstr "Non se puido atoparr o programa pdflatex no PATH.\n"
+"Por favor, instale pdflatex primeiro e asegúrese de que estea no PATH."
 
 #: ../src/control/LatexController.cpp:104
 msgid "Could not find the LaTeX package 'standalone'.\n"
