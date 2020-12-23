@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-12-23 19:52\n"
+"PO-Revision-Date: 2020-12-23 21:09\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -213,23 +213,24 @@ msgstr "Non se puido atoparr o programa pdflatex no PATH.\n"
 #: ../src/control/LatexController.cpp:104
 msgid "Could not find the LaTeX package 'standalone'.\n"
 "Please install standalone (found in texlive-latex-extra) and make sure it's accessible by your LaTeX installation."
-msgstr ""
+msgstr "Non se puido atopar o paquete LaTeX 'standalone'.\n"
+"Instale, por favor, standalone (que se atopa en texlive-latex-extra) e asegúrese de facelo accesíbel á súa instalación de LaTeX."
 
 #: ../src/control/LatexController.cpp:449
 msgid "Could not load LaTeX PDF file"
-msgstr ""
+msgstr "Non se puido cargar o ficheiro PDF de LaTeX"
 
 #: ../src/control/LatexController.cpp:432
 msgid "Could not load LaTeX PDF file, File Error: {1}"
-msgstr ""
+msgstr "Non se puido cargar o ficheiro PDF de LaTeX, erro do ficheiro {1}"
 
 #: ../src/control/LatexController.cpp:440
 msgid "Could not load LaTeX PDF file: {1}"
-msgstr ""
+msgstr "Non se puido cargar o ficheiro PDF de LaTeX:{1}"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:17
 msgid "Could not load pagetemplates.ini file"
-msgstr ""
+msgstr "Non se puido cargar o ficheiro pagetemplates.ini"
 
 #: ../src/control/xojfile/LoadHandler.cpp:946
 msgid "Could not open attachment: {1}. Error message: Could not read file"
