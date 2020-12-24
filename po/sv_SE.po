@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-12-24 16:27\n"
+"PO-Revision-Date: 2020-12-24 17:26\n"
 "Last-Translator: \n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
@@ -432,21 +432,21 @@ msgstr ""
 
 #: ../src/undo/TextBoxUndoAction.cpp:44
 msgid "Edit text"
-msgstr ""
+msgstr "Redigera text"
 
 #: ../src/undo/EmergencySaveRestore.cpp:28
 msgid "Emergency saved document"
-msgstr ""
+msgstr "Nödsparat dokument"
 
 #: ../src/undo/AddUndoAction.cpp:90 ../src/undo/DeleteUndoAction.cpp:85
 #: ../src/undo/EraseUndoAction.cpp:113
 msgid "Erase stroke"
-msgstr ""
+msgstr "Sudda streck"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:62
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:285
 msgid "Eraser"
-msgstr ""
+msgstr "Suddigummi"
 
 #: ../src/control/Control.cpp:2485
 msgid "Error annotate PDF file \"{1}\"\n"
@@ -488,7 +488,7 @@ msgstr ""
 
 #: ../src/util/CrashHandler.cpp:47
 msgid "Error: {1}"
-msgstr ""
+msgstr "Fel: {1}"
 
 #: ../src/control/XournalMain.cpp:156
 msgid "Errorlog cannot be deleted. You have to do it manually.\n"
@@ -497,7 +497,7 @@ msgstr ""
 
 #: ../src/control/jobs/BaseExportJob.cpp:20
 msgid "Export PDF"
-msgstr ""
+msgstr "Exportera PDF"
 
 #: ../src/util/Util.cpp:141 ../src/util/Util.cpp:158
 msgid "File couldn't be opened. You have to do it manually:\n"
@@ -522,15 +522,15 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/FontButton.cpp:60
 msgid "Font"
-msgstr ""
+msgstr "Teckensnitt"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:404
 msgid "Go to first page"
-msgstr ""
+msgstr "Gå till första sidan"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:408
 msgid "Go to last page"
-msgstr ""
+msgstr "Gå till sista sidan"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:411
 msgid "Go to next layer"
@@ -538,7 +538,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:406
 msgid "Go to page"
-msgstr ""
+msgstr "Gå till sida"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:410
 msgid "Go to previous layer"
@@ -550,17 +550,17 @@ msgstr ""
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:25
 msgid "Graph"
-msgstr ""
+msgstr "Graf"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:13
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:126
 msgid "Gray"
-msgstr ""
+msgstr "Grå"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:9
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:122
 msgid "Green"
-msgstr ""
+msgstr "Grön"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:384
 msgid "Grid Snapping"
@@ -569,11 +569,11 @@ msgstr ""
 #: ../src/gui/dialog/ButtonConfigGui.cpp:69
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:451
 msgid "Hand"
-msgstr ""
+msgstr "Hand"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:82
 msgid "Hide all"
-msgstr ""
+msgstr "Dölj alla"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:63
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:433
@@ -583,7 +583,7 @@ msgstr ""
 #: ../src/control/pagetype/PageTypeHandler.cpp:32
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:437
 msgid "Image"
-msgstr ""
+msgstr "Bild"
 
 #: ../src/control/XournalMain.cpp:252
 msgid "Image file successfully created"
@@ -595,11 +595,11 @@ msgstr ""
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:18
 msgid "Images"
-msgstr ""
+msgstr "Bilder"
 
 #: ../src/undo/InsertUndoAction.cpp:96
 msgid "Insert elements"
-msgstr ""
+msgstr "Infoga element"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:65 ../src/undo/InsertUndoAction.cpp:40
 msgid "Insert image"
@@ -710,20 +710,20 @@ msgstr ""
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:42
 msgid "No device"
-msgstr ""
+msgstr "Ingen enhet"
 
 #: ../src/pdf/base/XojCairoPdfExport.cpp:79
 #: ../src/pdf/base/XojCairoPdfExport.cpp:126
 msgid "No pages to export!"
-msgstr ""
+msgstr "Inga sidor att exportera!"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:97
 msgid "Normal drawing"
-msgstr ""
+msgstr "Normal ritning"
 
 #: ../src/plugin/Plugin.cpp:381 ../src/plugin/Plugin.cpp:402
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: ../src/control/jobs/BaseExportJob.cpp:101
 msgid "Only local files are supported\n"
@@ -732,42 +732,42 @@ msgstr ""
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:11
 msgid "Open Image"
-msgstr ""
+msgstr "Öppna bild"
 
 #: ../src/control/XournalMain.cpp:130
 msgid "Open Logfile"
-msgstr ""
+msgstr "Öppna loggfil"
 
 #: ../src/control/XournalMain.cpp:131
 msgid "Open Logfile directory"
-msgstr ""
+msgstr "Öppna loggfilsmapp"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:14
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:362
 msgid "Open file"
-msgstr ""
+msgstr "Öppna fil"
 
 #: ../src/control/RecentManager.cpp:221
 msgctxt "{1} is a URI"
 msgid "Open {1}"
-msgstr ""
+msgstr "Öppna {1}"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:16
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:129
 msgid "Orange"
-msgstr ""
+msgstr "Orange"
 
 #: ../src/control/jobs/PdfExportJob.cpp:9
 msgid "PDF Export"
-msgstr ""
+msgstr "PDF-export"
 
 #: ../src/gui/MainWindow.cpp:741
 msgid "PDF Page {1}"
-msgstr ""
+msgstr "PDF-sida {1}"
 
 #: ../src/view/PdfView.cpp:40
 msgid "PDF background missing"
-msgstr ""
+msgstr "PDF-bakgrund saknas"
 
 #: ../src/control/XournalMain.cpp:285
 msgid "PDF file successfully created"
@@ -777,7 +777,7 @@ msgstr ""
 #: ../src/control/jobs/PdfExportJob.cpp:19
 #: ../src/control/stockdlg/XojOpenDlg.cpp:53
 msgid "PDF files"
-msgstr ""
+msgstr "PDF-filer"
 
 #: ../src/control/XournalMain.cpp:302
 msgid "PDF output filename"
@@ -789,7 +789,7 @@ msgstr ""
 
 #: ../src/control/jobs/CustomExportJob.cpp:23
 msgid "PNG graphics"
-msgstr ""
+msgstr "PNG-grafik"
 
 #: ../src/control/jobs/CustomExportJob.cpp:24
 msgid "PNG with transparent background"
@@ -797,45 +797,45 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageSpinner.cpp:51
 msgid "Page"
-msgstr ""
+msgstr "Sida"
 
 #: ../src/gui/sidebar/previews/page/SidebarPreviewPages.cpp:61
 msgid "Page Preview"
-msgstr ""
+msgstr "Förhandsgranska sida"
 
 #: ../src/undo/PageBackgroundChangedUndoAction.cpp:97
 msgid "Page background changed"
-msgstr ""
+msgstr "Sidans bakgrund har ändrats"
 
 #: ../src/undo/InsertDeletePageUndoAction.cpp:113
 msgid "Page deleted"
-msgstr ""
+msgstr "Sidan borttagen"
 
 #: ../src/undo/InsertDeletePageUndoAction.cpp:109
 msgid "Page inserted"
-msgstr ""
+msgstr "Sidan infogad"
 
 #: ../src/gui/toolbarMenubar/ToolPageSpinner.cpp:37
 msgid "Page number"
-msgstr ""
+msgstr "Sidnummer"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:389
 msgid "Paired pages"
-msgstr ""
+msgstr "Parkopplade sidor"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:376
 #: ../src/undo/AddUndoAction.cpp:94
 msgid "Paste"
-msgstr ""
+msgstr "Klistra in"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:457
 msgid "Pause / Play"
-msgstr ""
+msgstr "Pausa / spela"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:61
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:266
 msgid "Pen"
-msgstr ""
+msgstr "Penna"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:21
 msgid "Plain"
@@ -845,19 +845,19 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:17
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:81
 msgid "Play Object"
-msgstr ""
+msgstr "Spela objekt"
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:21
 msgid "Predefined"
-msgstr ""
+msgstr "Fördefinierad"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:390
 msgid "Presentation mode"
-msgstr ""
+msgstr "Presentationsläge"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:456
 msgid "Record Audio / Stop Recording"
-msgstr ""
+msgstr "Spela in ljud / stoppa inspelning"
 
 #: ../src/control/Control.cpp:987
 msgid "Recorder could not be started."
@@ -866,20 +866,20 @@ msgstr ""
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:14
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:127
 msgid "Red"
-msgstr ""
+msgstr "Röd"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:370
 #: ../src/undo/UndoRedoHandler.cpp:244
 msgid "Redo"
-msgstr ""
+msgstr "Gör om"
 
 #: ../src/undo/UndoRedoHandler.cpp:239
 msgid "Redo: "
-msgstr ""
+msgstr "Gör om: "
 
 #: ../src/control/Control.cpp:2263
 msgid "Remove PDF Background"
-msgstr ""
+msgstr "Ta bort PDF-bakgrund"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:179
 msgid "Removed tool item from Toolbar {1} ID {2}"
@@ -891,7 +891,7 @@ msgstr ""
 
 #: ../src/util/XojMsgBox.cpp:82
 msgid "Replace"
-msgstr ""
+msgstr "Ersätt"
 
 #: ../src/control/xojfile/LoadHandler.cpp:1276
 msgid "Requested temporary file was not found for attachment {1}"
@@ -899,11 +899,11 @@ msgstr ""
 
 #: ../src/control/XournalMain.cpp:183
 msgid "Restore file"
-msgstr ""
+msgstr "Återställ fil"
 
 #: ../src/undo/RotateUndoAction.cpp:60
 msgid "Rotation"
-msgstr ""
+msgstr "Rotation"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:383
 msgid "Rotation Snapping"
@@ -919,7 +919,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:444
 msgid "Ruler"
-msgstr ""
+msgstr "Linjal"
 
 #: ../src/control/jobs/CustomExportJob.cpp:25
 msgid "SVG graphics"
@@ -1088,7 +1088,7 @@ msgstr ""
 
 #: ../src/gui/SearchBar.cpp:89
 msgid "Text not found"
-msgstr ""
+msgstr "Text hittades inte"
 
 #: ../src/gui/SearchBar.cpp:170 ../src/gui/SearchBar.cpp:224
 msgid "Text not found, searched on all pages"
@@ -1187,11 +1187,11 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:369
 #: ../src/undo/UndoRedoHandler.cpp:229
 msgid "Undo"
-msgstr ""
+msgstr "Ångra"
 
 #: ../src/undo/UndoRedoHandler.cpp:224
 msgid "Undo: "
-msgstr ""
+msgstr "Ångra: "
 
 #: ../src/control/xojfile/LoadHandler.cpp:335
 msgid "Unexpected root tag: {1}"
@@ -1243,20 +1243,20 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:499
 msgid "Very Thick"
-msgstr ""
+msgstr "Väldigt tjock"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:18
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:131
 msgid "White"
-msgstr ""
+msgstr "Vit"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:31
 msgid "With PDF background"
-msgstr ""
+msgstr "Med PDF-bakgrund"
 
 #: ../src/undo/InsertUndoAction.cpp:36
 msgid "Write text"
-msgstr ""
+msgstr "Skriv text"
 
 #: ../src/control/xojfile/LoadHandler.cpp:1106
 msgid "Wrong count of points ({1})"
@@ -1276,7 +1276,7 @@ msgstr ""
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:62
 msgid "Xournal files"
-msgstr ""
+msgstr "Xournal-filer"
 
 #: ../src/control/XournalMain.cpp:177
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
@@ -1329,28 +1329,28 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:399
 msgid "Zoom to 100%"
-msgstr ""
+msgstr "Zooma till 100%"
 
 #: ../src/control/Control.cpp:2593 ../src/control/jobs/BaseExportJob.cpp:21
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:12
 #: ../src/control/stockdlg/XojOpenDlg.cpp:15
 #: ../src/gui/dialog/PageTemplateDialog.cpp:88
 msgid "_Cancel"
-msgstr ""
+msgstr "_Avbryt"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:13
 #: ../src/control/stockdlg/XojOpenDlg.cpp:16
 msgid "_Open"
-msgstr ""
+msgstr "_Öppna"
 
 #: ../src/control/Control.cpp:2595 ../src/control/jobs/BaseExportJob.cpp:22
 #: ../src/gui/dialog/PageTemplateDialog.cpp:89
 msgid "_Save"
-msgstr ""
+msgstr "_Spara"
 
 #: ../src/util/DeviceListHelper.cpp:130
 msgid "cursor"
-msgstr ""
+msgstr "markör"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:274
 msgid "dash-/ dotted"
@@ -1382,23 +1382,23 @@ msgstr ""
 
 #: ../src/util/DeviceListHelper.cpp:126
 msgid "eraser"
-msgstr ""
+msgstr "suddgummi"
 
 #: ../src/undo/AddUndoAction.cpp:118 ../src/undo/DeleteUndoAction.cpp:112
 msgid "image"
-msgstr ""
+msgstr "bild"
 
 #: ../src/util/DeviceListHelper.cpp:135
 msgid "keyboard"
-msgstr ""
+msgstr "tangentbord"
 
 #: ../src/undo/AddUndoAction.cpp:121 ../src/undo/DeleteUndoAction.cpp:115
 msgid "latex"
-msgstr ""
+msgstr "latex"
 
 #: ../src/util/DeviceListHelper.cpp:118
 msgid "mouse"
-msgstr ""
+msgstr "mus"
 
 #: ../src/control/LatexController.cpp:303
 msgid "pdflatex encountered an error: {1} (exit code: {2})"
@@ -1406,32 +1406,32 @@ msgstr ""
 
 #: ../src/util/DeviceListHelper.cpp:122
 msgid "pen"
-msgstr ""
+msgstr "penna"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:193
 msgid "show"
-msgstr ""
+msgstr "visa"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:268
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:287
 msgid "standard"
-msgstr ""
+msgstr "standard"
 
 #: ../src/undo/AddUndoAction.cpp:115 ../src/undo/DeleteUndoAction.cpp:109
 msgid "stroke"
-msgstr ""
+msgstr "streck"
 
 #: ../src/undo/AddUndoAction.cpp:124 ../src/undo/DeleteUndoAction.cpp:118
 msgid "text"
-msgstr ""
+msgstr "text"
 
 #: ../src/util/DeviceListHelper.cpp:143
 msgid "touchpad"
-msgstr ""
+msgstr "pekplatta"
 
 #: ../src/util/DeviceListHelper.cpp:139
 msgid "touchscreen"
-msgstr ""
+msgstr "pekskärm"
 
 #: ../src/util/DeviceListHelper.cpp:148
 msgid "trackpoint"
@@ -1526,15 +1526,15 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:256
 msgid "<b>Background Color</b>"
-msgstr ""
+msgstr "<b>Bakgrundsfärg</b>"
 
 #: ../ui/pageTemplate.glade:269
 msgid "<b>Background</b>"
-msgstr ""
+msgstr "<b>Bakgrund</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:141
 msgid "<b>Color</b>"
-msgstr ""
+msgstr "<b>Färg</b>"
 
 #: ../ui/pageTemplate.glade:110
 msgid "<b>Configure Xournal++ Template Page</b>\n"
@@ -1549,11 +1549,11 @@ msgstr ""
 
 #: ../ui/toolbarCustomizeDialog.glade:86
 msgid "<b>Default Tools</b>"
-msgstr ""
+msgstr "<b>Standardverktyg</b>"
 
 #: ../ui/settings.glade:3561
 msgid "<b>Default</b>"
-msgstr ""
+msgstr "<b>Standard</b>"
 
 #: ../ui/exportSettings.glade:90
 msgid "<b>Document export settings</b>\n"
@@ -1676,7 +1676,7 @@ msgstr ""
 
 #: ../ui/about.glade:9
 msgid "About Xournal++"
-msgstr ""
+msgstr "Om Xournal++"
 
 #: ../ui/settings.glade:3423
 msgid "Action on Tool Tap"
@@ -1737,7 +1737,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2153
 msgid "Big cursor for pen"
-msgstr ""
+msgstr "Stor markör för penna"
 
 #: ../ui/settings.glade:2008
 msgid "Border color"
@@ -1761,7 +1761,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2089
 msgid "Colors"
-msgstr ""
+msgstr "Färger"
 
 #: ../ui/main.glade:1134
 msgid "Configure Page Template"
@@ -1777,11 +1777,11 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:158
 msgid "Current page"
-msgstr ""
+msgstr "Aktuell sida"
 
 #: ../ui/settings.glade:2175
 msgid "Cursor"
-msgstr ""
+msgstr "Markör"
 
 #: ../ui/settings.glade:1692
 msgid "Custom Commands (for Method \"Custom\")"
@@ -1813,15 +1813,15 @@ msgstr ""
 
 #: ../ui/main.glade:2106
 msgid "Delete this page"
-msgstr ""
+msgstr "Ta bort denna sida"
 
 #: ../ui/settingsButtonConfig.glade:25
 msgid "Device"
-msgstr ""
+msgstr "Enhet"
 
 #: ../ui/settings.glade:1620
 msgid "Disable"
-msgstr ""
+msgstr "Inaktivera"
 
 #: ../ui/settingsButtonConfig.glade:50
 msgid "Disable drawing for this device"
@@ -1833,7 +1833,7 @@ msgstr ""
 
 #: ../ui/settingsDeviceClassConfig.glade:41
 msgid "Disabled"
-msgstr ""
+msgstr "Inaktiverad"
 
 #: ../ui/settings.glade:1489
 msgid "Disabling Method"
@@ -1880,7 +1880,7 @@ msgstr ""
 
 #: ../ui/settings.glade:1608
 msgid "Enable"
-msgstr ""
+msgstr "Aktivera"
 
 #: ../ui/settings.glade:3172
 msgid "Enable  with determination radius of "
@@ -1940,11 +1940,11 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:25
 msgid "Export"
-msgstr ""
+msgstr "Exportera"
 
 #: ../ui/main.glade:250
 msgid "Export as..."
-msgstr ""
+msgstr "Exportera som..."
 
 #: ../ui/main.glade:1581 ../ui/main.glade:1786
 msgid "Fi_ll"
@@ -1968,7 +1968,7 @@ msgstr ""
 
 #: ../ui/main.glade:485 ../ui/settings.glade:2388
 msgid "Fullscreen"
-msgstr ""
+msgstr "Helskärm"
 
 #: ../ui/about.glade:281
 msgid "GNU GPLv2 or later"
@@ -1984,11 +1984,11 @@ msgstr ""
 
 #: ../ui/settings.glade:2107
 msgid "Global"
-msgstr ""
+msgstr "Globalt"
 
 #: ../ui/goto.glade:14
 msgid "Go to Page"
-msgstr ""
+msgstr "Gå till sida"
 
 #: ../ui/settings.glade:3097
 msgid "Grid snapping tolerance"
@@ -2004,27 +2004,27 @@ msgstr ""
 
 #: ../ui/pagesize.glade:212
 msgid "Height:"
-msgstr ""
+msgstr "Höjd:"
 
 #: ../ui/main.glade:888 ../ui/settings.glade:2350 ../ui/settings.glade:2417
 msgid "Hide Menubar"
-msgstr ""
+msgstr "Dölj menyrad"
 
 #: ../ui/settings.glade:2366 ../ui/settings.glade:2433
 msgid "Hide Sidebar"
-msgstr ""
+msgstr "Dölj sidofält"
 
 #: ../ui/settings.glade:2271
 msgid "Hide the horizontal scrollbar"
-msgstr ""
+msgstr "Dölj det horisontella rullisten"
 
 #: ../ui/settings.glade:2286
 msgid "Hide the vertical scrollbar"
-msgstr ""
+msgstr "Dölj den vertikala rullisten"
 
 #: ../ui/settings.glade:2137
 msgid "Highlight cursor position"
-msgstr ""
+msgstr "Markera markörens position"
 
 #: ../ui/main.glade:1714
 msgid "Highlighter Opti_ons"
@@ -2058,15 +2058,15 @@ msgstr ""
 
 #: ../ui/texdialog.glade:9
 msgid "Insert Latex"
-msgstr ""
+msgstr "Infoga Latex"
 
 #: ../ui/main.glade:2502
 msgid "Insert Page After"
-msgstr ""
+msgstr "Infoga sida efter"
 
 #: ../ui/main.glade:2494
 msgid "Insert Page Before"
-msgstr ""
+msgstr "Infoga sida innan"
 
 #: ../ui/main.glade:2085
 msgid "Insert a copy of the current page below"
@@ -2074,31 +2074,31 @@ msgstr ""
 
 #: ../ui/main.glade:512
 msgid "Layout"
-msgstr ""
+msgstr "Layout"
 
 #: ../ui/settings.glade:2242
 msgid "Left / Right-Handed"
-msgstr ""
+msgstr "Vänster- / högerhänta"
 
 #: ../ui/about.glade:265
 msgid "License"
-msgstr ""
+msgstr "Licens"
 
 #: ../ui/settings.glade:587
 msgid "Load / Save"
-msgstr ""
+msgstr "Läs in / Spara"
 
 #: ../ui/images.glade:73
 msgid "Load file"
-msgstr ""
+msgstr "Läs in fil"
 
 #: ../ui/toolbarManageDialog.glade:9
 msgid "Manage Toolbar"
-msgstr ""
+msgstr "Hantera verktygsfält"
 
 #: ../ui/settings.glade:3330
 msgid "Max Length (mm)"
-msgstr ""
+msgstr "Max längd (mm)"
 
 #: ../ui/settings.glade:820
 msgid "Merge button events with stylus tip events\n"
@@ -2196,7 +2196,7 @@ msgstr ""
 
 #: ../ui/main.glade:1832
 msgid "Pause"
-msgstr ""
+msgstr "Pausa"
 
 #: ../ui/main.glade:1459
 msgid "Pen _Options"
@@ -2216,11 +2216,11 @@ msgstr ""
 
 #: ../ui/main.glade:440
 msgid "Preferences"
-msgstr ""
+msgstr "Inställningar"
 
 #: ../ui/settings.glade:2489
 msgid "Presentation Mode"
-msgstr ""
+msgstr "Presentationsläge"
 
 #: ../ui/settings.glade:1129
 msgid "Pressure Sensitivity"
@@ -2240,15 +2240,15 @@ msgstr ""
 
 #: ../ui/main.glade:1822
 msgid "Record / Stop"
-msgstr ""
+msgstr "Spela in / stoppa"
 
 #: ../ui/settings.glade:3916
 msgid "Recording Quality"
-msgstr ""
+msgstr "Inspelningskvalitet"
 
 #: ../ui/exportSettings.glade:112
 msgid "Resolution"
-msgstr ""
+msgstr "Upplösning"
 
 #: ../ui/settings.glade:992
 msgid "Right Mouse Button"
@@ -2304,7 +2304,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3391
 msgid "Settings:"
-msgstr ""
+msgstr "Inställningar:"
 
 #: ../ui/settings.glade:3400
 msgid "Show Floating Toolbox"
