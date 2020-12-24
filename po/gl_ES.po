@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-12-24 11:33\n"
+"PO-Revision-Date: 2020-12-24 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -391,28 +391,28 @@ msgstr "O documento non está completo (pode ser que o final estea cortado?)"
 
 #: ../src/model/Document.cpp:343 ../src/model/Document.cpp:353
 msgid "Document not loaded! ({1}), {2}"
-msgstr ""
+msgstr "Non se cargou o documento! ({1}), {2}"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:26
 msgid "Dotted"
-msgstr ""
+msgstr "Punteado"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:105
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:30
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:442
 msgid "Draw Arrow"
-msgstr ""
+msgstr "Debuxar frecha"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:103
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:29
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:441
 msgid "Draw Circle"
-msgstr ""
+msgstr "Debuxar círculo"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:99
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:31
 msgid "Draw Line"
-msgstr ""
+msgstr "Debuxar liña"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:101
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:23
@@ -421,180 +421,183 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:103
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:440
 msgid "Draw Rectangle"
-msgstr ""
+msgstr "Debuxar rectángulo"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:107
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:32
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:443
 msgid "Draw coordinate system"
-msgstr ""
+msgstr "Debuxar sistema de coordenadas"
 
 #: ../src/undo/InsertUndoAction.cpp:32
 msgid "Draw stroke"
-msgstr ""
+msgstr "Debuxar trazo"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:95
 msgid "Drawing Type - don't change"
-msgstr ""
+msgstr "Tipo de debuxo - non trocar"
 
 #: ../src/undo/TextBoxUndoAction.cpp:44
 msgid "Edit text"
-msgstr ""
+msgstr "Editar o texto"
 
 #: ../src/undo/EmergencySaveRestore.cpp:28
 msgid "Emergency saved document"
-msgstr ""
+msgstr "Documento de emerxencia gardado"
 
 #: ../src/undo/AddUndoAction.cpp:90 ../src/undo/DeleteUndoAction.cpp:85
 #: ../src/undo/EraseUndoAction.cpp:113
 msgid "Erase stroke"
-msgstr ""
+msgstr "Borrar trazo"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:62
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:285
 msgid "Eraser"
-msgstr ""
+msgstr "Goma de borrar"
 
 #: ../src/control/Control.cpp:2485
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
-msgstr ""
+msgstr "Produciuse un erro ao anotar no PDF «{1}»\n"
+"{2}"
 
 #: ../src/gui/GladeGui.cpp:22
 msgid "Error loading glade file \"{1}\" (try to load \"{2}\")"
-msgstr ""
+msgstr "Produciuse un erro ao cargar o ficheiro glade «{1}» (tente cargar «{2}»)"
 
 #: ../src/control/Control.cpp:2289
 msgid "Error opening file \"{1}\""
-msgstr ""
+msgstr "Erro ao abrir «{1}»"
 
 #: ../src/util/OutputStream.cpp:33
 msgid "Error opening file: \"{1}\""
-msgstr ""
+msgstr "Erro ao abrir: «{1}»"
 
 #: ../src/control/xojfile/LoadHandler.cpp:537
 #: ../src/control/xojfile/LoadHandler.cpp:564
 msgid "Error reading PDF: {1}"
-msgstr ""
+msgstr "Erro ao ler o PDF: {1}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:631
 msgid "Error reading width of a stroke: {1}"
-msgstr ""
+msgstr "Erro ao ler a largura dun trazo: {1}"
 
 #: ../src/control/jobs/ImageExport.cpp:128
 msgid "Error save image #1"
-msgstr ""
+msgstr "Erro ao gardar a imaxe #1"
 
 #: ../src/control/jobs/ImageExport.cpp:145
 msgid "Error save image #2"
-msgstr ""
+msgstr "Erro ao gardar a imaxe #2"
 
 #: ../src/control/jobs/AutosaveJob.cpp:21
 msgid "Error while autosaving: {1}"
-msgstr ""
+msgstr "Erro ao gardar automaticamente: {1}"
 
 #: ../src/util/CrashHandler.cpp:47
 msgid "Error: {1}"
-msgstr ""
+msgstr "Erro: {1}"
 
 #: ../src/control/XournalMain.cpp:156
 msgid "Errorlog cannot be deleted. You have to do it manually.\n"
 "Logfile: {1}"
-msgstr ""
+msgstr "Non se pode eliminar o rexistro de erros. Terá que facelo manualmente.\n"
+"Ficheiro do rexistro: {1}"
 
 #: ../src/control/jobs/BaseExportJob.cpp:20
 msgid "Export PDF"
-msgstr ""
+msgstr "Exportar en PDF"
 
 #: ../src/util/Util.cpp:141 ../src/util/Util.cpp:158
 msgid "File couldn't be opened. You have to do it manually:\n"
 "URL: {1}"
-msgstr ""
+msgstr "O ficheiro non se puido abrir. Terá que facelo manualmente:\n"
+"URL: {1}"
 
 #: ../src/control/Control.cpp:2221
 msgid "Filename: {1}"
-msgstr ""
+msgstr "Nome do ficheiro: {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:481
 msgid "Fill"
-msgstr ""
+msgstr "Encher"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:495
 msgid "Fine"
-msgstr ""
+msgstr "Fino"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:70
 msgid "Floating Toolbox (experimental)"
-msgstr ""
+msgstr "Caixa de ferramentas flotante (experimental)"
 
 #: ../src/gui/toolbarMenubar/FontButton.cpp:60
 msgid "Font"
-msgstr ""
+msgstr "Tipo de letra"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:404
 msgid "Go to first page"
-msgstr ""
+msgstr "Ir á primeira páxina"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:408
 msgid "Go to last page"
-msgstr ""
+msgstr "Ir á derradeira páxina"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:411
 msgid "Go to next layer"
-msgstr ""
+msgstr "Ir á seguinte capa"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:406
 msgid "Go to page"
-msgstr ""
+msgstr "Ir á páxina"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:410
 msgid "Go to previous layer"
-msgstr ""
+msgstr "Ir á capa anterior"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:412
 msgid "Go to top layer"
-msgstr ""
+msgstr "Ir á capa superior"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:25
 msgid "Graph"
-msgstr ""
+msgstr "Gráfica"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:13
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:126
 msgid "Gray"
-msgstr ""
+msgstr "Gris"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:9
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:122
 msgid "Green"
-msgstr ""
+msgstr "Verde"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:384
 msgid "Grid Snapping"
-msgstr ""
+msgstr "Axustar á grade"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:69
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:451
 msgid "Hand"
-msgstr ""
+msgstr "Man"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:82
 msgid "Hide all"
-msgstr ""
+msgstr "Agochar todo"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:63
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:433
 msgid "Highlighter"
-msgstr ""
+msgstr "Realzador"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:32
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:437
 msgid "Image"
-msgstr ""
+msgstr "Imaxe"
 
 #: ../src/control/XournalMain.cpp:252
 msgid "Image file successfully created"
-msgstr ""
+msgstr "O ficheiro de imaxe creouse correctamente"
 
 #: ../src/control/XournalMain.cpp:303
 msgid "Image output filename (.png / .svg)"
@@ -816,24 +819,24 @@ msgstr ""
 
 #: ../src/undo/InsertDeletePageUndoAction.cpp:113
 msgid "Page deleted"
-msgstr ""
+msgstr "Páxina eliminada"
 
 #: ../src/undo/InsertDeletePageUndoAction.cpp:109
 msgid "Page inserted"
-msgstr ""
+msgstr "Páxina inserida"
 
 #: ../src/gui/toolbarMenubar/ToolPageSpinner.cpp:37
 msgid "Page number"
-msgstr ""
+msgstr "Número de páxina"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:389
 msgid "Paired pages"
-msgstr ""
+msgstr "Páxina emparelladas"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:376
 #: ../src/undo/AddUndoAction.cpp:94
 msgid "Paste"
-msgstr ""
+msgstr "Pegar"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:457
 msgid "Pause / Play"
