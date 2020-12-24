@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-12-23 23:15\n"
+"PO-Revision-Date: 2020-12-24 11:33\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -375,19 +375,19 @@ msgstr "Non abrir ficheiros de autogardado. Poden sobrescribirse!\n"
 
 #: ../src/control/jobs/BaseExportJob.cpp:40
 msgid "Do not overwrite the background PDF! This will cause errors!"
-msgstr ""
+msgstr "Non sobrescribir o PDF de orixe! Produciríanse erros!"
 
 #: ../src/control/Control.cpp:2784
 msgid "Document file was removed."
-msgstr ""
+msgstr "Retirous o ficheiro do documento."
 
 #: ../src/control/xojfile/LoadHandler.cpp:280
 msgid "Document is corrupted (no pages found in file)"
-msgstr ""
+msgstr "O documentos está corrupto (non se atoparon páxinas no ficheiro)"
 
 #: ../src/control/xojfile/LoadHandler.cpp:275
 msgid "Document is not complete (maybe the end is cut off?)"
-msgstr ""
+msgstr "O documento non está completo (pode ser que o final estea cortado?)"
 
 #: ../src/model/Document.cpp:343 ../src/model/Document.cpp:353
 msgid "Document not loaded! ({1}), {2}"
