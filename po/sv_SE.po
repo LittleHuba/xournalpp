@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-12-24 15:27\n"
+"PO-Revision-Date: 2020-12-24 16:27\n"
 "Last-Translator: \n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
@@ -155,23 +155,23 @@ msgstr "Avbryt"
 
 #: ../src/undo/ColorUndoAction.cpp:105
 msgid "Change color"
-msgstr ""
+msgstr "Byt färg"
 
 #: ../src/undo/FontUndoAction.cpp:120
 msgid "Change font"
-msgstr ""
+msgstr "Ändra teckensnitt"
 
 #: ../src/undo/FillUndoAction.cpp:96
 msgid "Change stroke fill"
-msgstr ""
+msgstr "Ändra streckfyllning"
 
 #: ../src/undo/SizeUndoAction.cpp:118
 msgid "Change stroke width"
-msgstr ""
+msgstr "Ändra streckbredd"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:98
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
-msgstr ""
+msgstr "Färg \"{1}\" okänd (inte definierad i standardfärglista)!"
 
 #: ../src/gui/sidebar/indextree/SidebarIndexPage.cpp:257
 msgid "Contents"
@@ -185,19 +185,19 @@ msgstr "Kopiera"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:30
 msgid "Copy current"
-msgstr ""
+msgstr "Kopiera aktuell"
 
 #: ../src/undo/CopyUndoAction.cpp:69
 msgid "Copy page"
-msgstr ""
+msgstr "Kopiera sida"
 
 #: ../src/control/jobs/SaveJob.cpp:121
 msgid "Could not create backup! (The file was created from an older Xournal version)"
-msgstr ""
+msgstr "Kunde inte skapa säkerhetskopia! (Filen skapades från en äldre Xournal-version)"
 
 #: ../src/util/Util.cpp:120
 msgid "Could not create folder: {1}"
-msgstr ""
+msgstr "Kunde inte skapa mapp: {1}"
 
 #: ../src/control/LatexController.cpp:99
 msgid "Could not find kpsewhich in PATH; please install kpsewhich and put it on path."
@@ -227,7 +227,7 @@ msgstr ""
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:17
 msgid "Could not load pagetemplates.ini file"
-msgstr ""
+msgstr "Kunde inte läsa in pagetemplates.ini-fil"
 
 #: ../src/control/xojfile/LoadHandler.cpp:946
 msgid "Could not open attachment: {1}. Error message: Could not read file"
@@ -394,18 +394,18 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:30
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:442
 msgid "Draw Arrow"
-msgstr ""
+msgstr "Rita pil"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:103
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:29
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:441
 msgid "Draw Circle"
-msgstr ""
+msgstr "Rita cirkel"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:99
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:31
 msgid "Draw Line"
-msgstr ""
+msgstr "Rita linje"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:101
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:23
@@ -414,17 +414,17 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:103
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:440
 msgid "Draw Rectangle"
-msgstr ""
+msgstr "Rita rektangel"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:107
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:32
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:443
 msgid "Draw coordinate system"
-msgstr ""
+msgstr "Rita koordinatsystem"
 
 #: ../src/undo/InsertUndoAction.cpp:32
 msgid "Draw stroke"
-msgstr ""
+msgstr "Rita streck"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:95
 msgid "Drawing Type - don't change"
