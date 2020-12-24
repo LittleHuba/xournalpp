@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-12-24 12:40\n"
+"PO-Revision-Date: 2020-12-24 19:35\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -601,144 +601,148 @@ msgstr "O ficheiro de imaxe creouse correctamente"
 
 #: ../src/control/XournalMain.cpp:303
 msgid "Image output filename (.png / .svg)"
-msgstr ""
+msgstr "Nome do ficheiro de imaxe de saída (.pnp / .svg)"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:18
 msgid "Images"
-msgstr ""
+msgstr "Imaxes"
 
 #: ../src/undo/InsertUndoAction.cpp:96
 msgid "Insert elements"
-msgstr ""
+msgstr "Inserir elementos"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:65 ../src/undo/InsertUndoAction.cpp:40
 msgid "Insert image"
-msgstr ""
+msgstr "Inserir imaxe"
 
 #: ../src/undo/InsertUndoAction.cpp:44
 msgid "Insert latex"
-msgstr ""
+msgstr "Inserir latex"
 
 #: ../src/undo/InsertLayerUndoAction.cpp:32
 msgid "Insert layer"
-msgstr ""
+msgstr "Inserir capa"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:419
 msgid "Insert page"
-msgstr ""
+msgstr "Inserir imaxe"
 
 #: ../src/control/XournalMain.cpp:304
 msgid "Jump to Page (first Page: 1)"
-msgstr ""
+msgstr "Saltar á páxina (primeira páxina: 1)"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:307
 msgid "Layer"
-msgstr ""
+msgstr "Capa"
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:68
 msgid "Layer Preview"
-msgstr ""
+msgstr "Visualización da capa"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:294
 msgid "Layer selection"
-msgstr ""
+msgstr "Selección da capa"
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayerEntry.cpp:24
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:227
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:283
 msgid "Layer {1}"
-msgstr ""
+msgstr "Capa {1}"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:10
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:123
 msgid "Light Blue"
-msgstr ""
+msgstr "Azul celeste"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:11
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:124
 msgid "Light Green"
-msgstr ""
+msgstr "Verde claro"
 
 #: ../src/gui/PageView.cpp:811
 #: ../src/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:88
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:16
 msgid "Loading..."
-msgstr ""
+msgstr "Cargando..."
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:15
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:128
 msgid "Magenta"
-msgstr ""
+msgstr "Maxenta"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:393
 msgid "Manage Toolbars"
-msgstr ""
+msgstr "Xestionar barras de ferramentas"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:87
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:496
 msgid "Medium"
-msgstr ""
+msgstr "Medio"
 
 #: ../src/control/XournalMain.cpp:540
 msgid "Missing the needed UI file:\n"
 "{1}\n"
 " .app corrupted?\n"
 "Path: {2}"
-msgstr ""
+msgstr "Falta o ficheiro de IU necesario:\n"
+"{1}\n"
+".app corrupto?\n"
+"Camiño: {2}"
 
 #: ../src/undo/MoveUndoAction.cpp:18
 msgid "Move"
-msgstr ""
+msgstr "Mover"
 
 #: ../src/undo/MoveLayerUndoAction.cpp:30
 msgid "Move layer"
-msgstr ""
+msgstr "Mover capa"
 
 #: ../src/undo/SwapUndoAction.cpp:73
 msgid "Move page downwards"
-msgstr ""
+msgstr "Mover páxina cara abaixo"
 
 #: ../src/undo/SwapUndoAction.cpp:73
 msgid "Move page upwards"
-msgstr ""
+msgstr "Mover páxina cara arriba"
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:82
 msgid "New"
-msgstr ""
+msgstr "Novo"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:361
 msgid "New Xournal"
-msgstr ""
+msgstr "Novo Xournal"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:407
 msgid "Next"
-msgstr ""
+msgstr "Seguinte"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:414
 msgid "Next annotated page"
-msgstr ""
+msgstr "Seguinte páxina anotada"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:42
 msgid "No device"
-msgstr ""
+msgstr "Non hai dispositivo"
 
 #: ../src/pdf/base/XojCairoPdfExport.cpp:79
 #: ../src/pdf/base/XojCairoPdfExport.cpp:126
 msgid "No pages to export!"
-msgstr ""
+msgstr "Non hai páxinas para exportar!"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:97
 msgid "Normal drawing"
-msgstr ""
+msgstr "Debuxo normal"
 
 #: ../src/plugin/Plugin.cpp:381 ../src/plugin/Plugin.cpp:402
 msgid "OK"
-msgstr ""
+msgstr "Aceptar"
 
 #: ../src/control/jobs/BaseExportJob.cpp:101
 msgid "Only local files are supported\n"
 "Path: {1}"
-msgstr ""
+msgstr "Soamente os ficheiros locais son admitidos\n"
+"Camiño: {1}"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:11
 msgid "Open Image"
