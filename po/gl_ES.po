@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-12-24 19:35\n"
+"PO-Revision-Date: 2020-12-24 20:35\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -746,80 +746,80 @@ msgstr "Soamente os ficheiros locais son admitidos\n"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:11
 msgid "Open Image"
-msgstr ""
+msgstr "Abrir imaxe"
 
 #: ../src/control/XournalMain.cpp:130
 msgid "Open Logfile"
-msgstr ""
+msgstr "Abrir ficheiro de rexistro"
 
 #: ../src/control/XournalMain.cpp:131
 msgid "Open Logfile directory"
-msgstr ""
+msgstr "Abrir cartafol do ficheiro de rexistro"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:14
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:362
 msgid "Open file"
-msgstr ""
+msgstr "Abrir ficheiro"
 
 #: ../src/control/RecentManager.cpp:221
 msgctxt "{1} is a URI"
 msgid "Open {1}"
-msgstr ""
+msgstr "Abrir {1}"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:16
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:129
 msgid "Orange"
-msgstr ""
+msgstr "Laranxa"
 
 #: ../src/control/jobs/PdfExportJob.cpp:9
 msgid "PDF Export"
-msgstr ""
+msgstr "Exportar como PDF"
 
 #: ../src/gui/MainWindow.cpp:741
 msgid "PDF Page {1}"
-msgstr ""
+msgstr "Páxina de PDF {1}"
 
 #: ../src/view/PdfView.cpp:40
 msgid "PDF background missing"
-msgstr ""
+msgstr "Falta o fondo do PDF"
 
 #: ../src/control/XournalMain.cpp:285
 msgid "PDF file successfully created"
-msgstr ""
+msgstr "Creouse o PDF correctamente"
 
 #: ../src/control/jobs/CustomExportJob.cpp:21
 #: ../src/control/jobs/PdfExportJob.cpp:19
 #: ../src/control/stockdlg/XojOpenDlg.cpp:53
 msgid "PDF files"
-msgstr ""
+msgstr "Ficheiros PDF"
 
 #: ../src/control/XournalMain.cpp:302
 msgid "PDF output filename"
-msgstr ""
+msgstr "Nome do ficheiro PDF de saída"
 
 #: ../src/control/jobs/CustomExportJob.cpp:22
 msgid "PDF with plain background"
-msgstr ""
+msgstr "PDF con fondo simple"
 
 #: ../src/control/jobs/CustomExportJob.cpp:23
 msgid "PNG graphics"
-msgstr ""
+msgstr "Gráficos PDF"
 
 #: ../src/control/jobs/CustomExportJob.cpp:24
 msgid "PNG with transparent background"
-msgstr ""
+msgstr "PNG con fondo transparente"
 
 #: ../src/gui/toolbarMenubar/ToolPageSpinner.cpp:51
 msgid "Page"
-msgstr ""
+msgstr "Páxina"
 
 #: ../src/gui/sidebar/previews/page/SidebarPreviewPages.cpp:61
 msgid "Page Preview"
-msgstr ""
+msgstr "Visualización de páxina"
 
 #: ../src/undo/PageBackgroundChangedUndoAction.cpp:97
 msgid "Page background changed"
-msgstr ""
+msgstr "Cambiou o fondo da páxina"
 
 #: ../src/undo/InsertDeletePageUndoAction.cpp:113
 msgid "Page deleted"
@@ -1064,57 +1064,57 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:33
 #: ../src/undo/RecognizerUndoAction.cpp:87
 msgid "Stroke recognizer"
-msgstr ""
+msgstr "Recoñedor de trazo"
 
 #: ../src/util/CrashHandler.cpp:51
 msgid "Successfully saved document to \"{1}\""
-msgstr ""
+msgstr "Gardouse correctamente o documento en «{1}»"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:112
 msgid "Supported files"
-msgstr ""
+msgstr "Ficheiros admitidos"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:64
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:435
 msgid "Text"
-msgstr ""
+msgstr "Texto"
 
 #: ../src/gui/SearchBar.cpp:82
 #, c-format
 msgid "Text %i times found on this page"
-msgstr ""
+msgstr "O texto atopouse %i veces nesta páxina"
 
 #: ../src/undo/TextUndoAction.cpp:38
 msgid "Text changes"
-msgstr ""
+msgstr "Cambios de texto"
 
 #: ../src/gui/SearchBar.cpp:78
 msgid "Text found on this page"
-msgstr ""
+msgstr "Texto atopado nesta páxina"
 
 #: ../src/gui/SearchBar.cpp:156 ../src/gui/SearchBar.cpp:210
 msgid "Text found once on page {1}"
-msgstr ""
+msgstr "Texto atopado unha vez na páxina {1}"
 
 #: ../src/gui/SearchBar.cpp:157 ../src/gui/SearchBar.cpp:211
 msgid "Text found {1} times on page {2}"
-msgstr ""
+msgstr "Texto atopado {1} veces na páxina {2}"
 
 #: ../src/gui/SearchBar.cpp:89
 msgid "Text not found"
-msgstr ""
+msgstr "Non se atopou o texto"
 
 #: ../src/gui/SearchBar.cpp:170 ../src/gui/SearchBar.cpp:224
 msgid "Text not found, searched on all pages"
-msgstr ""
+msgstr "Non se atopou o texto, tras buscalo en todas as páxinas"
 
 #: ../src/control/Control.cpp:1173
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
-msgstr ""
+msgstr "A configuración da barra de ferramentas «{1}» está configurada, quere crear unha copia para editala?"
 
 #: ../src/control/Control.cpp:2259
 msgid "The attached background PDF could not be found."
-msgstr ""
+msgstr "Non se pode atopar o fondo anexado do PDF."
 
 #: ../src/control/Control.cpp:2260
 msgid "The background PDF could not be found."
