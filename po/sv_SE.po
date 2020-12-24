@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-11-17 08:51\n"
+"PO-Revision-Date: 2020-12-24 15:27\n"
 "Last-Translator: \n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
@@ -20,17 +20,19 @@ msgstr ""
 #: ../src/control/XournalMain.cpp:564
 msgid "\n\n"
 "Will now attempt to run without this file."
-msgstr ""
+msgstr "\n\n"
+"Kommer nu att försöka köra utan denna fil."
 
 #: ../src/control/XournalMain.cpp:544
 msgid "\n"
 "Will now attempt to run without this file."
-msgstr ""
+msgstr "\n"
+"Kommer nu att försöka köra utan denna fil."
 
 #: ../src/gui/MainWindow.cpp:743
 msgctxt "Page {pagenumber} \"of {pagecount}\""
 msgid " of {1}{2}"
-msgstr ""
+msgstr " av {1}{2}"
 
 #: ../src/control/settings/Settings.cpp:103
 msgid "%F-Note-%H-%M"
@@ -38,7 +40,7 @@ msgstr ""
 
 #: ../src/gui/dialog/SettingsDialog.cpp:107
 msgid "<b>No devices were found. This seems wrong - maybe file a bug report?</b>"
-msgstr ""
+msgstr "<b>Inga enheter hittades. Detta verkar fel - kanske lämna in en felrapport?</b>"
 
 #: ../src/control/XournalMain.cpp:560
 msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
@@ -47,32 +49,37 @@ msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
 "  Not relative\n"
 "  Not in the Working Path\n"
 "  Not in {2}"
-msgstr ""
+msgstr "<span foreground='red' size='x-large'>Saknar den nödvändiga användargränsnittsfilen:\n"
+"<b>{1}</b></span>\n"
+"Kunde inte hitta dem någonstans.\n"
+"  inte relativa\n"
+"  Inte i arbetssökvägen\n"
+"  Inte i {2}"
 
 #: ../src/control/XournalMain.cpp:305
 msgid "Absolute path for the audio files playback"
-msgstr ""
+msgstr "Absolut sökväg för uppspelning av ljudfiler"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:436
 msgid "Add/Edit Tex"
-msgstr ""
+msgstr "Lägg till/redigera Tex"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:45
 msgid "All files"
-msgstr ""
+msgstr "Alla filer"
 
 #: ../src/control/pagetype/PageTypeMenu.cpp:234
 msgid "Apply to all pages"
-msgstr ""
+msgstr "Tillämpa på alla sidor"
 
 #: ../src/control/pagetype/PageTypeMenu.cpp:224
 msgid "Apply to current page"
-msgstr ""
+msgstr "Tillämpa på aktuell sida"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:30
 #: ../src/control/stockdlg/XojOpenDlg.cpp:132
 msgid "Attach file to the journal"
-msgstr ""
+msgstr "Bifoga filen till journalen"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:140
 msgid "Attribute \"{1}\" could not be parsed as double, the value is \"{2}\""
@@ -102,7 +109,7 @@ msgstr ""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:70
 msgid "Attribute color not set!"
-msgstr ""
+msgstr "Attributfärg inte inställd!"
 
 #: ../src/control/AudioController.cpp:127
 msgid "Audio folder not set! Recording won't work!\n"
@@ -119,32 +126,32 @@ msgstr ""
 
 #: ../src/control/jobs/AutosaveJob.cpp:54
 msgid "Autosaving to {1}"
-msgstr ""
+msgstr "Spara automatiskt till {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:405
 msgid "Back"
-msgstr ""
+msgstr "Tillbaka"
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayerEntry.cpp:20
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:237
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:287
 msgid "Background"
-msgstr ""
+msgstr "Bakgrund"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:8
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:121
 msgid "Black"
-msgstr ""
+msgstr "Svart"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:12
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:125
 msgid "Blue"
-msgstr ""
+msgstr "Blå"
 
 #: ../src/control/Control.cpp:2264 ../src/control/Control.cpp:2794
 #: ../src/control/XournalMain.cpp:133
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 #: ../src/undo/ColorUndoAction.cpp:105
 msgid "Change color"
@@ -168,13 +175,13 @@ msgstr ""
 
 #: ../src/gui/sidebar/indextree/SidebarIndexPage.cpp:257
 msgid "Contents"
-msgstr ""
+msgstr "Innehåll"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:375
 #: ../src/gui/toolbarMenubar/model/ToolbarModel.cpp:97
 #: ../src/gui/toolbarMenubar/model/ToolbarModel.cpp:105
 msgid "Copy"
-msgstr ""
+msgstr "Kopiera"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:30
 msgid "Copy current"
