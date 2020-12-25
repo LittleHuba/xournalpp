@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-12-25 12:06\n"
+"PO-Revision-Date: 2020-12-25 13:08\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -1120,197 +1120,197 @@ msgstr "Non se pode atopar o fondo anexado do PDF."
 
 #: ../src/control/Control.cpp:2260
 msgid "The background PDF could not be found."
-msgstr ""
+msgstr "Non se puido atopar o PDF de fondo."
 
 #: ../src/control/xojfile/LoadHandler.cpp:138
 msgid "The file is no valid .xopp file (Mimetype missing): \"{1}\""
-msgstr ""
+msgstr "O ficheiro .xopp non é válido (Falta o tipo MIME): «{1}»"
 
 #: ../src/control/xojfile/LoadHandler.cpp:146
 msgid "The file is no valid .xopp file (Mimetype wrong): \"{1}\""
-msgstr ""
+msgstr "O ficheiro .xopp non é válido (Ten un MIME errado): «{1}»"
 
 #: ../src/control/xojfile/LoadHandler.cpp:155
 msgid "The file is no valid .xopp file (Version missing): \"{1}\""
-msgstr ""
+msgstr "O ficheiro .xopp non é válido (Falta a versión): «{1}»"
 
 #: ../src/control/xojfile/LoadHandler.cpp:169
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
-msgstr ""
+msgstr "O ficheiro .xopp non é válido (Versión da cadea danada): «{1}»"
 
 #: ../src/control/LatexController.cpp:353
 msgid "The formula is empty when rendered or invalid."
-msgstr ""
+msgstr "A fórmula está baleira ao se renderizar ou non é válida."
 
 #: ../src/control/XournalMain.cpp:124
 msgid "The most recent log file name: {1}"
-msgstr ""
+msgstr "O máis recente nome do ficheiro de rexistro: {1}"
 
 #: ../src/control/XournalMain.cpp:117
 msgid "There are errorlogfiles from Xournal++. Please send a Bugreport, so the bug may be fixed."
-msgstr ""
+msgstr "Hai ficheiros de rexistro de erros de Xournal++. Envíe un informe de erros para que se poida arranxar o problema."
 
 #: ../src/control/XournalMain.cpp:116
 msgid "There is an errorlogfile from Xournal++. Please send a Bugreport, so the bug may be fixed."
-msgstr ""
+msgstr "Hai un ficheiro de rexistro de erros de Xournal++. Envíe un informe de erros para que se poida arranxar o problema."
 
 #: ../src/util/XojMsgBox.cpp:102
 msgid "There was an error displaying help: {1}"
-msgstr ""
+msgstr "Produciuse un erro ao presentar a axuda: {1}"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:88
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:497
 msgid "Thick"
-msgstr ""
+msgstr "Grosor"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:85
 msgid "Thickness - don't change"
-msgstr ""
+msgstr "Grosura - non cambiar"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:86
 msgid "Thin"
-msgstr ""
+msgstr "Fino"
 
 #: ../src/control/Control.cpp:2784
 msgid "This document is not saved yet."
-msgstr ""
+msgstr "Este documento aínda non está gardado."
 
 #: ../src/control/PageBackgroundChangeController.cpp:169
 #: ../src/control/tools/ImageHandler.cpp:52
 msgid "This image could not be loaded. Error message: {1}"
-msgstr ""
+msgstr "Esta imaxe non se pode cargar. Mensaxe de erro: {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:391
 msgid "Toggle fullscreen"
-msgstr ""
+msgstr "Trocar a pantalla completa"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:60
 msgid "Tool - don't change"
-msgstr ""
+msgstr "Ferramenta – no cambiar"
 
 #: ../src/gui/toolbarMenubar/model/ToolbarData.cpp:141
 msgid "Toolbar found: {1}"
-msgstr ""
+msgstr "Barra de ferramentas atopada: {1}"
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:53
 msgid "Toolbars"
-msgstr ""
+msgstr "Barras de ferramentas"
 
 #: ../src/util/CrashHandler.cpp:37
 msgid "Trying to emergency save the current open document…"
-msgstr ""
+msgstr "Tentando un gardado de emerxencia do actualmente aberto documento…"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:369
 #: ../src/undo/UndoRedoHandler.cpp:229
 msgid "Undo"
-msgstr ""
+msgstr "Desfacer"
 
 #: ../src/undo/UndoRedoHandler.cpp:224
 msgid "Undo: "
-msgstr ""
+msgstr "Desfacer: "
 
 #: ../src/control/xojfile/LoadHandler.cpp:335
 msgid "Unexpected root tag: {1}"
-msgstr ""
+msgstr "Etiqueta raíz inesperada: {1}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:366
 msgid "Unexpected tag in document: \"{1}\""
-msgstr ""
+msgstr "Etiqueta inesperada no documento: «{1}»"
 
 #: ../src/control/xojfile/LoadHandler.cpp:609
 msgid "Unknown background type: {1}"
-msgstr ""
+msgstr "Tipo de fondo descoñecido: {1}"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:80
 msgid "Unknown color value \"{1}\""
-msgstr ""
+msgstr "Valor descoñecido de cor «{1}»"
 
 #: ../src/control/xojfile/LoadHandler.cpp:546
 msgid "Unknown domain type: {1}"
-msgstr ""
+msgstr "Tipo de dominio descoñecido: {1}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:266
 msgid "Unknown parser error"
-msgstr ""
+msgstr "Erro descoñecido de procesador"
 
 #: ../src/control/xojfile/LoadHandler.cpp:461
 msgid "Unknown pixmap::domain type: {1}"
-msgstr ""
+msgstr "Tipo de pixmap::domain descoñecido: {1}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:726
 msgid "Unknown stroke type: \"{1}\", assuming pen"
-msgstr ""
+msgstr "Tipo de trazo descoñecido: «{1}», suponse de lapis"
 
 #: ../src/control/Control.cpp:2666
 msgid "Unsaved Document"
-msgstr ""
+msgstr "Documento non gardado"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:449
 msgid "Vertical Space"
-msgstr ""
+msgstr "Espazo vertical"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:66
 msgid "Vertical space"
-msgstr ""
+msgstr "Espazo vertical"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:494
 msgid "Very Fine"
-msgstr ""
+msgstr "Moi fino"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:499
 msgid "Very Thick"
-msgstr ""
+msgstr "Moi groso"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:18
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:131
 msgid "White"
-msgstr ""
+msgstr "Branco"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:31
 msgid "With PDF background"
-msgstr ""
+msgstr "Con fondo de PDF"
 
 #: ../src/undo/InsertUndoAction.cpp:36
 msgid "Write text"
-msgstr ""
+msgstr "Escribir texto"
 
 #: ../src/control/xojfile/LoadHandler.cpp:1106
 msgid "Wrong count of points ({1})"
-msgstr ""
+msgstr "Conta de puntos equivocada ({1})"
 
 #: ../src/control/xojfile/LoadHandler.cpp:1120
 msgid "Wrong number of points, got {1}, expected {2}"
-msgstr ""
+msgstr "Número de puntos equivocado, obtense {1} cando se esperaba {2}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:261
 msgid "XML Parser error: {1}"
-msgstr ""
+msgstr "Erro do procesador de PDF: {1}"
 
 #: ../src/control/jobs/CustomExportJob.cpp:27
 msgid "Xournal (Compatibility)"
-msgstr ""
+msgstr "Xournal (Compatibilidade)"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:62
 msgid "Xournal files"
-msgstr ""
+msgstr "Ficheiros do Xournal"
 
 #: ../src/control/XournalMain.cpp:177
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
-msgstr ""
+msgstr "Xournal++ pechouse a última vez. Quere restaurar o último ficheiro editado?"
 
 #: ../src/control/Control.cpp:2602 ../src/control/stockdlg/XojOpenDlg.cpp:70
 msgid "Xournal++ files"
-msgstr ""
+msgstr "Ficheiros do Xournal++"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:78
 #: ../src/gui/dialog/PageTemplateDialog.cpp:94
 msgid "Xournal++ template"
-msgstr ""
+msgstr "Modelo de Xournal++"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:17
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:130
 msgid "Yellow"
-msgstr ""
+msgstr "Amarelo"
 
 #: ../src/control/PageBackgroundChangeController.cpp:209
 msgid "You don't have any PDF pages to select from. Cancel operation.\n"
