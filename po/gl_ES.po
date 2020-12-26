@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-12-26 20:36\n"
+"PO-Revision-Date: 2020-12-26 21:37\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -1874,82 +1874,85 @@ msgstr "Dispositivo"
 
 #: ../ui/settings.glade:1620
 msgid "Disable"
-msgstr ""
+msgstr "Desactivar"
 
 #: ../ui/settingsButtonConfig.glade:50
 msgid "Disable drawing for this device"
-msgstr ""
+msgstr "Desactivar o debuxo con este dispositivo"
 
 #: ../ui/settings.glade:2301
 msgid "Disable scrollbar fade out"
-msgstr ""
+msgstr "Desactivar a ocultación da barra de desprazamento"
 
 #: ../ui/settingsDeviceClassConfig.glade:41
 msgid "Disabled"
-msgstr ""
+msgstr "Desactivado"
 
 #: ../ui/settings.glade:1489
 msgid "Disabling Method"
-msgstr ""
+msgstr "Desactivando o método"
 
 #: ../ui/settings.glade:2779
 msgid "Display DPI Calibration"
-msgstr ""
+msgstr "Presentar a calibración en DPI"
 
 #: ../ui/settings.glade:3264
 msgid "Do not draw for inputs of short time and length unless it comes in short succession. Instead, show floating toolbox."
-msgstr ""
+msgstr "Non debuxar entradas de tempo e larguras curtos a non ser que veñan en sucesión rápida. No seu lugar, amosar a barra flotante de ferramentas."
 
 #: ../ui/settings.glade:641 ../ui/settings.glade:808 ../ui/settings.glade:3177
 msgid "Drag LEFT from start point acts like shift key is being held.\n"
 "Drag UP acts as if Control key is being held.\n\n"
 "Determination Radius: Radius at which modifiers will lock in until finished drawing.\n\n"
 "<i>Useful for operating without keyboard.</i>"
-msgstr ""
+msgstr "Arrastrar á ESQUERDA a partir do punto de arranque actúa como manter a presión sobre a tecla de cambio a maiúsculas.\n"
+"Arrastrar para ARRIBA actúa como manter premida a tecla Control.\n\n"
+"Determinación de radio: Radio no que os modificadores permanecerán bloqueados ata que se remate de debuxar.\n\n"
+"<i>Resulta práctico para operar sen teclado.</i>"
 
 #: ../ui/toolbarCustomizeDialog.glade:57
 msgid "Drag and drop Components fom here to the toolbars and back."
-msgstr ""
+msgstr "Arrastrar e soltar compoñentes desde aquí ás barras de ferramentas e volver."
 
 #: ../ui/main.glade:1364
 msgid "Draw _Line"
-msgstr ""
+msgstr "Debuxar _liña"
 
 #: ../ui/settings.glade:3455
 msgid "Drawing Area"
-msgstr ""
+msgstr "Debuxar área"
 
 #: ../ui/settings.glade:3227
 msgid "Drawing Tools - Set Modifiers by Draw Direction (Experimental)"
-msgstr ""
+msgstr "Ferramentas de debuxo - Definir modificadores vía dirección de debuxo (experimental)"
 
 #: ../ui/main.glade:2510
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplicar"
 
 #: ../ui/main.glade:2547
 msgid "Edit (not implemented yet)"
-msgstr ""
+msgstr "Editar (aínda non implementado)"
 
 #: ../ui/settings.glade:1608
 msgid "Enable"
-msgstr ""
+msgstr "Activar"
 
 #: ../ui/settings.glade:3172
 msgid "Enable  with determination radius of "
-msgstr ""
+msgstr "Activar con radio de determinación de "
 
 #: ../ui/settings.glade:537
 msgid "Enable Autoloading of Journals"
-msgstr ""
+msgstr "Activar carga automática de cadernos"
 
 #: ../ui/settings.glade:235
 msgid "Enable Autosaving"
-msgstr ""
+msgstr "Activar o gardado automático"
 
 #: ../ui/settings.glade:1829
 msgid "Enable GTK Touch / Scrolling workaround  (requires restart)"
-msgstr ""
+msgstr "Activar a alternativa toque / desprazamento GTK (require reinicio)"
 
 #: ../ui/settings.glade:1107
 msgid "Enable Pressure Sensitivity"
@@ -2156,27 +2159,28 @@ msgstr ""
 #: ../ui/settings.glade:820
 msgid "Merge button events with stylus tip events\n"
 "<i>(Check this if</i> \"<tt>xsetwacom get *deviceId* TabletPCButton</tt>\" <i>returns</i> \"<tt>on</tt>\"<i>)</i>"
-msgstr ""
+msgstr "Combinar eventos de botón con eventos da punta do lapis\n"
+"<i>(Comprobar isto se</i> \"<tt>xsetwacom get *deviceId* TabletPCButton</tt>\" <i>devolve</i> \"<tt>en</tt>\"<i>)</i>"
 
 #: ../ui/settings.glade:954
 msgid "Middle Mouse Button"
-msgstr ""
+msgstr "Botón medio do rato"
 
 #: ../ui/settings.glade:1041 ../ui/settingsDeviceClassConfig.glade:42
 msgid "Mouse"
-msgstr ""
+msgstr "Rato"
 
 #: ../ui/settings.glade:1010
 msgid "Mouse Buttons"
-msgstr ""
+msgstr "Botóns do rato"
 
 #: ../ui/main.glade:2532
 msgid "Move Down"
-msgstr ""
+msgstr "Mover cara abaixo"
 
 #: ../ui/main.glade:2524
 msgid "Move Up"
-msgstr ""
+msgstr "Mover cara arriba"
 
 #: ../ui/main.glade:1066
 msgid "N_ext annotated page"
