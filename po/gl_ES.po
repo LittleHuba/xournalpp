@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-12-26 00:30\n"
+"PO-Revision-Date: 2020-12-26 20:36\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -1749,127 +1749,128 @@ msgstr "Todas as páxinas"
 #: ../ui/settings.glade:3389
 msgid "All three conditions must be met before stroke is ignored.\n"
 "It must be short in time and length and we can't have ignored another stroke recently."
-msgstr ""
+msgstr "Todas as tres condicións débense dar para que o trazo sexa ignorado.\n"
+"Debe ser curto no tempo e largura e non podemos ter ignorado outro trazo recentemente."
 
 #: ../ui/settings.glade:3823
 msgid "Audio Devices"
-msgstr ""
+msgstr "Dispositivos de son"
 
 #: ../ui/settings.glade:3963
 msgid "Audio Recording"
-msgstr ""
+msgstr "Gravación de son"
 
 #: ../ui/pluginEntry.glade:57
 msgid "Author: "
-msgstr ""
+msgstr "Autor: "
 
 #: ../ui/about.glade:186
 msgid "Authors:"
-msgstr ""
+msgstr "Autores:"
 
 #: ../ui/settings.glade:1515
 msgid "Autodetect"
-msgstr ""
+msgstr "Detección automática"
 
 #: ../ui/settings.glade:559
 msgid "Autoloading Journals"
-msgstr ""
+msgstr "Detección automática de cadernos"
 
 #: ../ui/settings.glade:316
 msgid "Autosaving"
-msgstr ""
+msgstr "Gardado automático"
 
 #: ../ui/settings.glade:465
 msgid "Available Placeholders"
-msgstr ""
+msgstr "Marcadores de posición dispoñíbeis"
 
 #: ../ui/settings.glade:2019
 msgid "Background color between pages"
-msgstr ""
+msgstr "Cor de fondo entre páxinas"
 
 #: ../ui/settings.glade:2153
 msgid "Big cursor for pen"
-msgstr ""
+msgstr "Cursor grande para lapis"
 
 #: ../ui/settings.glade:2008
 msgid "Border color"
-msgstr ""
+msgstr "Cor do bordo"
 
 #: ../ui/settings.glade:1993
 msgid "Border color for current page and other selections"
-msgstr ""
+msgstr "Cor do bordo da páxina actual e outras seleccións"
 
 #: ../ui/about.glade:127
 msgid "Built on"
-msgstr ""
+msgstr "Compilado o"
 
 #: ../ui/settings.glade:1201
 msgid "Button 1"
-msgstr ""
+msgstr "Botón 1"
 
 #: ../ui/settings.glade:1239
 msgid "Button 2"
-msgstr ""
+msgstr "Botón 2"
 
 #: ../ui/settings.glade:2089
 msgid "Colors"
-msgstr ""
+msgstr "Cores"
 
 #: ../ui/main.glade:1134
 msgid "Configure Page Template"
-msgstr ""
+msgstr "Configurar a páxina modelo"
 
 #: ../ui/pageTemplate.glade:185
 msgid "Copy last page settings"
-msgstr ""
+msgstr "Copiar a configuración da última páxina"
 
 #: ../ui/pageTemplate.glade:296
 msgid "Copy last page size"
-msgstr ""
+msgstr "Copiar o tamaño da última páxina"
 
 #: ../ui/exportSettings.glade:158
 msgid "Current page"
-msgstr ""
+msgstr "Páxina actual"
 
 #: ../ui/settings.glade:2175
 msgid "Cursor"
-msgstr ""
+msgstr "Cursor"
 
 #: ../ui/settings.glade:1692
 msgid "Custom Commands (for Method \"Custom\")"
-msgstr ""
+msgstr "Ordes personalizadas (para o método «Personalizado»)"
 
 #: ../ui/settings.glade:2067
 msgid "Dark Theme (requires restart)"
-msgstr ""
+msgstr "Tema escuro (require o reinicio)"
 
 #: ../ui/settings.glade:491
 msgid "Default Save Name"
-msgstr ""
+msgstr "Nome predeterminado ao gardar"
 
 #: ../ui/settings.glade:379
 msgid "Default name: "
-msgstr ""
+msgstr "Nome predeterminado: "
 
 #: ../ui/settings.glade:3601
 msgid "Defaults"
-msgstr ""
+msgstr "Valores predeterminados"
 
 #: ../ui/main.glade:1172
 msgid "Delete Layer"
-msgstr ""
+msgstr "Eliminar capa"
 
 #: ../ui/settingsButtonConfig.glade:132
 msgid "Delete stroke"
-msgstr ""
+msgstr "Eliminar trazo"
 
 #: ../ui/main.glade:2106
 msgid "Delete this page"
-msgstr ""
+msgstr "Eliminar esta páxina"
 
 #: ../ui/settingsButtonConfig.glade:25
 msgid "Device"
-msgstr ""
+msgstr "Dispositivo"
 
 #: ../ui/settings.glade:1620
 msgid "Disable"
