@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-12-25 23:27\n"
+"PO-Revision-Date: 2020-12-26 00:30\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -1676,73 +1676,75 @@ msgstr "<i>Se o seu hardware non admite o recoñecemento de man, Xournal++ pode 
 
 #: ../ui/settings.glade:1092
 msgid "<i>Pressure Sensitivity allows you to draw lines with different widths, depending on how much pressure you apply to the pen. If your tablet does not support this feature this setting has no effect.</i>"
-msgstr ""
+msgstr "<i>A sensibilidade á presión permítelle debuxar liñas con diferentes anchuras, dependendo de canta presión aplique ao lapis. Se a tableta non ten estas capacidades, este axuste non ten efecto.</i>"
 
 #: ../ui/settings.glade:2707
 msgid "<i>Put a ruler on your screen and move the slider until both rulers match.</i>"
-msgstr ""
+msgstr "<i>Dispoña unha regra na súa pantalla e mova o desprazador ata que ambas regras coincidan.</i>"
 
 #: ../ui/settings.glade:3506
 msgid "<i>Select the tool and Settings if you press the Default Button.</i>"
-msgstr ""
+msgstr "<i>Selecciona a ferramenta e a configuración cando se prema o botón predeterminado.</i>"
 
 #: ../ui/settings.glade:1585
 msgid "<i>Specify commands that are called once Hand Recognition triggers. The commands will be executed in the UI Thread, make sure they are not blocking!</i>"
-msgstr ""
+msgstr "<i>Especifica as ordes que son invocadas unha vez que se lanza o recoñecemento de man. As ordes executaranse no fío de IU, asegúrese de que non están bloqueando!</i>"
 
 #: ../ui/settings.glade:3742
 msgid "<i>Specify the audio devices used for recording and playback of audio attachments. \n"
 "If available select <small><tt>pulse</tt></small> as input / output device.</i>"
-msgstr ""
+msgstr "<i>Especifica os dispositivos de son utilizados para a gravación e reprodución dos anexos de son.\n"
+"De ser posible, seleccione <small><tt>pulse</tt></small> como dispositivo de entrada / saída.</i>"
 
 #: ../ui/settings.glade:1160
 msgid "<i>Specify the tools that will be selected if a button of the stylus is pressed or the eraser is used. After releasing the button, the previous tool will be selected.</i>"
-msgstr ""
+msgstr "<i>Especifique as ferramentas que se seleccionarán cando se prema un botón do lapis ou cando se utilice a goma de borrar. Ao liberar o botón, seleccionarase a ferramenta previa.</i>"
 
 #: ../ui/settings.glade:346
 msgid "<i>This name will be proposed if you save a new document.</i>"
-msgstr ""
+msgstr "<i>Propoñerase este nome se garda un novo documento.</i>"
 
 #: ../ui/settings.glade:2685
 msgid "<i>To make sure on 100% zoom the size of elements is natural. (requires restart)</i>"
-msgstr ""
+msgstr "<i>Para asegurar que o aumento ao 100% do tamaño dos elementos sexa natural. (require o reinicio)</i>"
 
 #: ../ui/settings.glade:1955
 msgid "<i>Toggle visibility of menubar with F10</i>"
-msgstr ""
+msgstr "<i>Trocar visibilidade da barra de menú con F10</i>"
 
 #: ../ui/settings.glade:1748
 msgid "<i>Use pinch gestures to zoom journal pages.</i>"
-msgstr ""
+msgstr "<i>Utilizar xestos de pinza para aumentar páxinas.</i>"
 
 #: ../ui/settings.glade:1377
 msgid "<i>You can configure devices, not identified by GTK as touchscreen, to behave as if they were one.</i>"
-msgstr ""
+msgstr "<i>Pode configurar dispositivos, non identificados por GTK como pantallas táctiles, co fin de que se comporten como tales.</i>"
 
 #: ../ui/about.glade:73
 msgid "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
 "<i>The next generation</i>"
-msgstr ""
+msgstr "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
+"<i>A nova xeración</i>"
 
 #: ../ui/about.glade:9
 msgid "About Xournal++"
-msgstr ""
+msgstr "Verbo de Xournal++"
 
 #: ../ui/settings.glade:3423
 msgid "Action on Tool Tap"
-msgstr ""
+msgstr "Acción na ferramenta de toque"
 
 #: ../ui/settings.glade:2914
 msgid "Add additional horizontal space of"
-msgstr ""
+msgstr "Engadir espazo horizontal adicional de"
 
 #: ../ui/settings.glade:2892
 msgid "Add additional vertical space of"
-msgstr ""
+msgstr "Engadir espazo horizontal adicional de"
 
 #: ../ui/exportSettings.glade:142
 msgid "All pages"
-msgstr ""
+msgstr "Todas as páxinas"
 
 #: ../ui/settings.glade:3389
 msgid "All three conditions must be met before stroke is ignored.\n"
