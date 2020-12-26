@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-12-26 21:37\n"
+"PO-Revision-Date: 2020-12-26 22:46\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -1956,83 +1956,83 @@ msgstr "Activar a alternativa toque / desprazamento GTK (require reinicio)"
 
 #: ../ui/settings.glade:1107
 msgid "Enable Pressure Sensitivity"
-msgstr ""
+msgstr "Activar sensibilidade á presión"
 
 #: ../ui/settings.glade:3259
 msgid "Enable Tap action"
-msgstr ""
+msgstr "Activar acción de toque"
 
 #: ../ui/settings.glade:789
 msgid "Enable drawing outside of window <i>(Drawing will not stop at the border of the window)</i>"
-msgstr ""
+msgstr "Permitir o debuxo fóra da xanela<i>(O debuxo non parará no bordo da xanela</i>)"
 
 #: ../ui/settings.glade:1459
 msgid "Enable internal Hand Recognition"
-msgstr ""
+msgstr "Activar recoñecemento interno da man"
 
 #: ../ui/settings.glade:636
 msgid "Enable new input system (Requires restart)"
-msgstr ""
+msgstr "Activa novo sistema de entrada (require o reinicio)"
 
 #: ../ui/settings.glade:1760
 msgid "Enable zoom gestures (requires restart)"
-msgstr ""
+msgstr "Activar xestos de ampliación (require o reinicio)"
 
 #: ../ui/texdialog.glade:72
 msgid "Enter / edit LaTeX Text"
-msgstr ""
+msgstr "Inserir /editar texto LaTeX"
 
 #: ../ui/main.glade:1605
 msgid "Eraser Optio_ns"
-msgstr ""
+msgstr "Opcións da goma de borrar"
 
 #: ../ui/settingsButtonConfig.glade:129
 msgid "Eraser Type - don't change"
-msgstr ""
+msgstr "Tipo de goma - non cambiar"
 
 #: ../ui/settings.glade:670
 msgid "Experimental Input System"
-msgstr ""
+msgstr "Sistema de entrada experimental"
 
 #: ../ui/exportSettings.glade:25
 msgid "Export"
-msgstr ""
+msgstr "Exportar"
 
 #: ../ui/main.glade:250
 msgid "Export as..."
-msgstr ""
+msgstr "Exportar como..."
 
 #: ../ui/main.glade:1581 ../ui/main.glade:1786
 msgid "Fi_ll"
-msgstr ""
+msgstr "En_cher"
 
 #: ../ui/main.glade:1591 ../ui/main.glade:1796
 msgid "Fill transparency"
-msgstr ""
+msgstr "Encher transparencia"
 
 #: ../ui/main.glade:2304
 msgid "Find next occurrence of the search string"
-msgstr ""
+msgstr "Atopar a seguinte ocorrencia da cadea de busca"
 
 #: ../ui/main.glade:2282
 msgid "Find previous occurrence of the search string"
-msgstr ""
+msgstr "Atopar a ocorrencia anterior da cadea de busca"
 
 #: ../ui/settings.glade:3019
 msgid "First Page Offset "
-msgstr ""
+msgstr "Desprazamento da primeira páxina "
 
 #: ../ui/main.glade:485 ../ui/settings.glade:2388
 msgid "Fullscreen"
-msgstr ""
+msgstr "Pantalla completa"
 
 #: ../ui/about.glade:281
 msgid "GNU GPLv2 or later"
-msgstr ""
+msgstr "GNU GPLv2 ou posterior"
 
 #: ../ui/settings.glade:3867
 msgid "Gain"
-msgstr ""
+msgstr "Aumento"
 
 #: ../ui/about.glade:153
 msgid "Git commit"
