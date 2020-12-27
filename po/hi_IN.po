@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-12-27 17:06\n"
+"PO-Revision-Date: 2020-12-27 18:06\n"
 "Last-Translator: \n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
@@ -70,7 +70,7 @@ msgstr "सभी फाइलें"
 
 #: ../src/control/pagetype/PageTypeMenu.cpp:234
 msgid "Apply to all pages"
-msgstr ""
+msgstr "सभी उत्पादों के लिए लागू करें"
 
 #: ../src/control/pagetype/PageTypeMenu.cpp:224
 msgid "Apply to current page"
