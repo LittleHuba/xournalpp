@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-12-03 18:02\n"
+"PO-Revision-Date: 2020-12-27 17:06\n"
 "Last-Translator: \n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
@@ -66,7 +66,7 @@ msgstr ""
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:45
 msgid "All files"
-msgstr ""
+msgstr "सभी फाइलें"
 
 #: ../src/control/pagetype/PageTypeMenu.cpp:234
 msgid "Apply to all pages"
@@ -130,23 +130,23 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:405
 msgid "Back"
-msgstr ""
+msgstr "पीछे"
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayerEntry.cpp:20
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:237
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:287
 msgid "Background"
-msgstr ""
+msgstr "पृष्ठभूमि"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:8
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:121
 msgid "Black"
-msgstr ""
+msgstr "काला"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:12
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:125
 msgid "Blue"
-msgstr ""
+msgstr "नीला"
 
 #: ../src/control/Control.cpp:2264 ../src/control/Control.cpp:2794
 #: ../src/control/XournalMain.cpp:133
