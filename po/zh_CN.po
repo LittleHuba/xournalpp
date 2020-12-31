@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-12-31 14:57\n"
+"PO-Revision-Date: 2020-12-31 15:56\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -837,7 +837,7 @@ msgstr "页码"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:389
 msgid "Paired pages"
-msgstr "双页配对"
+msgstr "双页模式"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:376
 #: ../src/undo/AddUndoAction.cpp:94
@@ -2230,7 +2230,7 @@ msgstr "页码："
 
 #: ../ui/settings.glade:3051
 msgid "Paired Pages"
-msgstr "双页配对"
+msgstr "双页模式"
 
 #: ../ui/pagesize.glade:18
 msgid "Paper Format"
