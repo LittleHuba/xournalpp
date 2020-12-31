@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-12-15 20:20\n"
+"PO-Revision-Date: 2020-12-31 14:57\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1942,7 +1942,7 @@ msgstr "启用"
 
 #: ../ui/settings.glade:3172
 msgid "Enable  with determination radius of "
-msgstr ""
+msgstr "启用 并将临界半径设为 "
 
 #: ../ui/settings.glade:537
 msgid "Enable Autoloading of Journals"
@@ -2161,7 +2161,8 @@ msgstr "最大长度 (毫米)"
 #: ../ui/settings.glade:820
 msgid "Merge button events with stylus tip events\n"
 "<i>(Check this if</i> \"<tt>xsetwacom get *deviceId* TabletPCButton</tt>\" <i>returns</i> \"<tt>on</tt>\"<i>)</i>"
-msgstr ""
+msgstr "将按钮事件与触控笔点击事件合并\n"
+"<i>(如果</i> \"<tt>xsetwacom get *deviceId* TabletPCButton</tt>\" <i>返回</i> \"<tt>on</tt>\"<i> ，请选中这一项)</i>"
 
 #: ../ui/settings.glade:954
 msgid "Middle Mouse Button"
