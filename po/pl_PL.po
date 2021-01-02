@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2021-01-01 20:46\n"
+"PO-Revision-Date: 2021-01-02 05:16\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -923,7 +923,7 @@ msgstr "Obracanie"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:383
 msgid "Rotation Snapping"
-msgstr "Przyciąganie rotacyjne"
+msgstr "Przyciąganie obrotu"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:22
 msgid "Ruled"
@@ -2219,7 +2219,7 @@ msgstr "P_oprzednia adnotowana strona"
 
 #: ../ui/pageTemplate.glade:18
 msgid "Page Template"
-msgstr ""
+msgstr "Szablon strony"
 
 #: ../ui/exportSettings.glade:175
 msgid "Pages:"
@@ -2501,7 +2501,7 @@ msgstr "Z pomocą społeczności"
 
 #: ../ui/settings.glade:1851
 msgid "Workaround"
-msgstr ""
+msgstr "Obejście"
 
 #: ../ui/settings.glade:105
 msgid "Xournal++ Preferences"
@@ -2669,7 +2669,7 @@ msgstr "_Nawigacja"
 
 #: ../ui/main.glade:1039
 msgid "_Next Layer"
-msgstr ""
+msgstr "_Następna warstwa"
 
 #: ../ui/main.glade:1000
 msgid "_Next Page"
@@ -2693,7 +2693,7 @@ msgstr "_Tryb prezentacji"
 
 #: ../ui/main.glade:1028
 msgid "_Previous Layer"
-msgstr ""
+msgstr "_Poprzednia warstwa"
 
 #: ../ui/main.glade:978
 msgid "_Previous Page"
