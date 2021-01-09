@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2021-01-09 12:18\n"
+"PO-Revision-Date: 2021-01-09 13:17\n"
 "Last-Translator: \n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
@@ -698,7 +698,7 @@ msgstr "Ny"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:361
 msgid "New Xournal"
-msgstr ""
+msgstr "Ny Xournal"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:407
 msgid "Next"
@@ -932,15 +932,15 @@ msgstr ""
 #: ../src/control/Control.cpp:2785 ../src/control/jobs/SaveJob.cpp:13
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:363
 msgid "Save"
-msgstr ""
+msgstr "Spara"
 
 #: ../src/control/Control.cpp:2785
 msgid "Save As..."
-msgstr ""
+msgstr "Spara som..."
 
 #: ../src/control/Control.cpp:2590 ../src/gui/dialog/PageTemplateDialog.cpp:87
 msgid "Save File"
-msgstr ""
+msgstr "Spara fil"
 
 #: ../src/control/jobs/CustomExportJob.cpp:149
 #: ../src/control/jobs/SaveJob.cpp:135
@@ -949,11 +949,11 @@ msgstr ""
 
 #: ../src/undo/ScaleUndoAction.cpp:59
 msgid "Scale"
-msgstr ""
+msgstr "Skala"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:378
 msgid "Search"
-msgstr ""
+msgstr "Sök"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:453
 msgid "Select Font"
@@ -1018,7 +1018,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:74
 msgid "Show all"
-msgstr ""
+msgstr "Visa alla"
 
 #: ../src/gui/dialog/backgroundSelect/PdfPagesDialog.cpp:117
 msgid "Show only not used pages (one unused page)"
@@ -1063,7 +1063,7 @@ msgstr ""
 #: ../src/gui/dialog/ButtonConfigGui.cpp:64
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:435
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: ../src/gui/SearchBar.cpp:82
 #, c-format
@@ -1178,7 +1178,7 @@ msgstr ""
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:53
 msgid "Toolbars"
-msgstr ""
+msgstr "Verktygsfält"
 
 #: ../src/util/CrashHandler.cpp:37
 msgid "Trying to emergency save the current open document…"
@@ -1317,11 +1317,11 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:397
 msgid "Zoom in"
-msgstr ""
+msgstr "Zooma in"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:396
 msgid "Zoom out"
-msgstr ""
+msgstr "Zooma ut"
 
 #: ../src/gui/toolbarMenubar/ToolZoomSlider.cpp:89
 msgid "Zoom slider"
