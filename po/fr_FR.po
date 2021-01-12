@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-11-17 08:52\n"
+"PO-Revision-Date: 2021-01-12 13:28\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -21,7 +21,7 @@ msgstr ""
 msgid "\n\n"
 "Will now attempt to run without this file."
 msgstr "\n\n"
-"Essai d'exécution sans ce fichier."
+"Essai de démarrage sans fichier."
 
 #: ../src/control/XournalMain.cpp:544
 msgid "\n"
@@ -51,7 +51,7 @@ msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
 "  Not in {2}"
 msgstr "<span foreground='red' size='x-large'>Le fichier UI requis est manquant :\n"
 "<b>{1}</b></span>\n"
-"Impossible de le trouver où que ce soit.\n"
+"Impossible de le trouver à n'importe quel endroit.\n"
 "  Pas dans le chemin relatif\n"
 "  Pas dans le chemin de travail\n"
 "  Pas dans {2}"
@@ -62,7 +62,7 @@ msgstr "Chemin absolu pour la lecture des fichiers audio"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:436
 msgid "Add/Edit Tex"
-msgstr "Ajout/Édition d'une formule Tex"
+msgstr "Ajout/Edition d'un formulaire Tex"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:45
 msgid "All files"
@@ -83,7 +83,7 @@ msgstr "Attacher le fichier au journal"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:140
 msgid "Attribute \"{1}\" could not be parsed as double, the value is \"{2}\""
-msgstr "L'attribut \"{1}\" n'a pas pu être analysé comme nombre entier (double), la valeur est \"{2}\""
+msgstr "L'attribut \"{1}\" n'a pas pu être analysé comme nombre à virgule (double), la valeur est \"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:132
 msgid "Attribute \"{1}\" could not be parsed as double, the value is nullptr"
@@ -160,7 +160,7 @@ msgstr "Modifier la couleur"
 
 #: ../src/undo/FontUndoAction.cpp:120
 msgid "Change font"
-msgstr "Modifier la police"
+msgstr "Changer la police"
 
 #: ../src/undo/FillUndoAction.cpp:96
 msgid "Change stroke fill"
@@ -176,7 +176,7 @@ msgstr "Couleur \"{1}\" inconnue (non définie dans la liste de couleurs par dé
 
 #: ../src/gui/sidebar/indextree/SidebarIndexPage.cpp:257
 msgid "Contents"
-msgstr "Contenu"
+msgstr "Contenus"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:375
 #: ../src/gui/toolbarMenubar/model/ToolbarModel.cpp:97
@@ -312,7 +312,7 @@ msgstr "Impossible d'écrire l'arrière-plan \"{1}\", {2}"
 
 #: ../src/control/xojfile/SaveHandler.cpp:391
 msgid "Could not write background \"{1}\". Continuing anyway."
-msgstr "Impossible d'écrire l'arrière-plan \"{1}\". Continuer quand même."
+msgstr "Impossible d'écrire l'arrière-plan \"{1}\". Poursuite."
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:91
 msgid "Create new layer"
@@ -365,7 +365,7 @@ msgstr "Supprimer le calque"
 
 #: ../src/control/Control.cpp:2790
 msgid "Discard"
-msgstr "Abandonner"
+msgstr "Annuler"
 
 #: ../src/control/Control.cpp:2192
 msgid "Do not open Autosave files. They may will be overwritten!\n"
@@ -377,7 +377,7 @@ msgstr "Ne pas ouvrir les fichiers de sauvegarde automatique. Ils peuvent être 
 
 #: ../src/control/jobs/BaseExportJob.cpp:40
 msgid "Do not overwrite the background PDF! This will cause errors!"
-msgstr "Ne pas écraser le PDF d'arrière-plan ! Cela entrainera des erreurs !"
+msgstr "Ne pas écraser le PDF d'arrière-plan ! Cela causera des erreurs !"
 
 #: ../src/control/Control.cpp:2784
 msgid "Document file was removed."
@@ -389,7 +389,7 @@ msgstr "Le document est corrompu (aucune page trouvée dans le fichier)"
 
 #: ../src/control/xojfile/LoadHandler.cpp:275
 msgid "Document is not complete (maybe the end is cut off?)"
-msgstr "Le document n'est pas complet (peut-être la fin est-elle coupée ?)"
+msgstr "Le document n'est pas terminé (peut-être la fin est coupée ?)"
 
 #: ../src/model/Document.cpp:343 ../src/model/Document.cpp:353
 msgid "Document not loaded! ({1}), {2}"
@@ -403,7 +403,7 @@ msgstr "Pointillé"
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:30
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:442
 msgid "Draw Arrow"
-msgstr "Tracer une flèche"
+msgstr "Dessiner une flèche"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:103
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:29
@@ -423,17 +423,17 @@ msgstr "Tracer une ligne"
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:103
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:440
 msgid "Draw Rectangle"
-msgstr "Tracer un rectangle"
+msgstr "Dessiner un rectangle"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:107
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:32
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:443
 msgid "Draw coordinate system"
-msgstr "Tracer le système de coordonnées"
+msgstr "Dessiner le système de coordonnées"
 
 #: ../src/undo/InsertUndoAction.cpp:32
 msgid "Draw stroke"
-msgstr "Tracer un trait"
+msgstr "Dessiner le trait"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:95
 msgid "Drawing Type - don't change"
@@ -445,7 +445,7 @@ msgstr "Modifier le texte"
 
 #: ../src/undo/EmergencySaveRestore.cpp:28
 msgid "Emergency saved document"
-msgstr "Document de secours enregistré"
+msgstr "Document d'urgence enregistré"
 
 #: ../src/undo/AddUndoAction.cpp:90 ../src/undo/DeleteUndoAction.cpp:85
 #: ../src/undo/EraseUndoAction.cpp:113
@@ -846,7 +846,7 @@ msgstr "Coller"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:457
 msgid "Pause / Play"
-msgstr "Pause / Lecture"
+msgstr "Pause / Jouer"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:61
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:266
@@ -1068,7 +1068,7 @@ msgstr "Arrêter"
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:33
 #: ../src/undo/RecognizerUndoAction.cpp:87
 msgid "Stroke recognizer"
-msgstr "Identificateur de forme"
+msgstr "Identificateur de trait"
 
 #: ../src/util/CrashHandler.cpp:51
 msgid "Successfully saved document to \"{1}\""
@@ -1322,7 +1322,7 @@ msgstr "Vous n'avez pas de pages PDF à sélectionner. Annuler l'opération.\n"
 
 #: ../src/control/XournalMain.cpp:120
 msgid "You're using {1}/{2} branch. Send Bugreport will direct you to this repo's issue tracker."
-msgstr "Vous utilisez la branche {1}/{2} . Envoyer un rapport de bogue vous dirigera vers le gestionnaire de tickets de ce dépôt."
+msgstr "Vous utilisez la branche {1}/{2} . Envoyer le rapport de bogue vous dirigera vers le tracker de fiches de ce repo."
 
 #: ../src/gui/sidebar/indextree/SidebarIndexPage.cpp:82
 msgid "Your current document does not contain PDF Page no {1}\n"
@@ -1342,7 +1342,7 @@ msgstr "Zoomer"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:396
 msgid "Zoom out"
-msgstr "Zoom arrière"
+msgstr "Dézoomer"
 
 #: ../src/gui/toolbarMenubar/ToolZoomSlider.cpp:89
 msgid "Zoom slider"
@@ -1472,7 +1472,7 @@ msgstr "xoj-preview-extractor: appeller avec INPUT.xoj OUTPUT.png"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:158
 msgid "xoj-preview-extractor: could not find icon \"{1}\""
-msgstr "xoj-preview-extracteur : impossible de trouver l'icône \"{1}\""
+msgstr "icône introuvable \"{1}\""
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:102
 msgid "xoj-preview-extractor: file \"{1}\" contains no preview"
@@ -1555,7 +1555,7 @@ msgstr "%a Nom abrégé du jour de la semaine (p.ex. jeu)\n"
 "%X\t Représentation de l'heure (par exemple 14:55:02)\n"
 "%y\t Année, deux derniers chiffres (00-99)\n"
 "%Y\t Année (par exemple 2001)\n"
-"%Z\t Nom du fuseau horaire ou son abréviation (par exemple CDT)\n"
+"%Z\t Nom du fuseau hotaire ou son abréviation (par exemple CDT)\n"
 "%%\t Un sign %"
 
 #: ../ui/settings.glade:3353
@@ -1611,8 +1611,8 @@ msgstr "<b>Paramètres d'exportation de document</b>\n"
 #: ../ui/main.glade:110
 msgid "<b>Empty Toolbox</b>\n"
 "<i>Menu: View/Toolbars</i>"
-msgstr "<b>Boîte à outils vide</b>\n"
-"<i>Menu : Voir/Barres d'outils</i>"
+msgstr "<b>Boite à outil vide</b>\n"
+"<i>Menu: Visualisation/Barre d'outils</i>"
 
 #: ../ui/fillTransparency.glade:79
 msgid "<b>Fill transparency settings</b>\n"
@@ -1784,7 +1784,7 @@ msgstr "Enregistrement automatique"
 
 #: ../ui/settings.glade:465
 msgid "Available Placeholders"
-msgstr "Emplacements disponibles"
+msgstr "Espaces réservés disponibles"
 
 #: ../ui/settings.glade:2019
 msgid "Background color between pages"
@@ -2054,7 +2054,7 @@ msgstr "Tolérance de capture sur la grille"
 
 #: ../ui/main.glade:1441
 msgid "H_and Tool"
-msgstr "Outil _main"
+msgstr "Outil"
 
 #: ../ui/settings.glade:1717
 msgid "Hand Recognition"
@@ -2163,12 +2163,12 @@ msgstr "Longueur maximale (mm)"
 #: ../ui/settings.glade:820
 msgid "Merge button events with stylus tip events\n"
 "<i>(Check this if</i> \"<tt>xsetwacom get *deviceId* TabletPCButton</tt>\" <i>returns</i> \"<tt>on</tt>\"<i>)</i>"
-msgstr "Fusionner les événements de boutons avec les info-bulles de stylet\n"
-"<i>(Cochez cette case si</i> \"<tt>xsetwacom get *deviceId* TabletPCButton</tt>\" <i>return</i> \"<tt>on</tt>\"<i>)</i>"
+msgstr "Fusionner les événements avec les événements de pointe du stylet\n"
+"<i>(Vérifiez que</i> \"<tt>xsetwacom reçoit *deviceId* TabletPCButton</tt>\" <i>retourne</i> \"<tt>sur</tt>\"<i>)</i>"
 
 #: ../ui/settings.glade:954
 msgid "Middle Mouse Button"
-msgstr "Bouton de souris du milieu"
+msgstr "Bouton central de la souris"
 
 #: ../ui/settings.glade:1041 ../ui/settingsDeviceClassConfig.glade:42
 msgid "Mouse"
@@ -2176,7 +2176,7 @@ msgstr "Souris"
 
 #: ../ui/settings.glade:1010
 msgid "Mouse Buttons"
-msgstr "Boutons de Souris"
+msgstr "Bouton de souris"
 
 #: ../ui/main.glade:2532
 msgid "Move Down"
@@ -2188,7 +2188,7 @@ msgstr "Monter"
 
 #: ../ui/main.glade:1066
 msgid "N_ext annotated page"
-msgstr "Page annotée N_ext"
+msgstr "Page annotée suivante"
 
 #: ../ui/main.glade:1113
 msgid "New Page _After"
@@ -2212,7 +2212,7 @@ msgstr "Décaler la première page de ce nombre de pages quand <b>pages paires</
 
 #: ../ui/settings.glade:842
 msgid "Options"
-msgstr "Options"
+msgstr "Paramètres"
 
 #: ../ui/settings.glade:3789
 msgid "Output Device"
