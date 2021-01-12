@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-18 03:06+0100\n"
-"PO-Revision-Date: 2020-12-23 21:09\n"
+"PO-Revision-Date: 2021-01-12 13:28\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -40,7 +40,7 @@ msgstr "%F-Nota-%H-%M"
 
 #: ../src/gui/dialog/SettingsDialog.cpp:107
 msgid "<b>No devices were found. This seems wrong - maybe file a bug report?</b>"
-msgstr "<b>No se han encontrado dispositivos. Esto puede ser un fallo. Recomendamos que envíes un informe de error.</b>"
+msgstr "<b>No se encontró ningún dispositivo. Esto es inusual; recomendamos que envíe un informe de error.</b>"
 
 #: ../src/control/XournalMain.cpp:560
 msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
@@ -58,11 +58,11 @@ msgstr "<span foreground='red' size='x-large'>Falta el archivo de IU necesario:\
 
 #: ../src/control/XournalMain.cpp:305
 msgid "Absolute path for the audio files playback"
-msgstr "Ruta absoluta para la reproducción de archivos de audio"
+msgstr "Ruta absoluta de reproducción de archivos de audio"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:436
 msgid "Add/Edit Tex"
-msgstr "Añadir/Editar Tex"
+msgstr "Añadir/editar Tex"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:45
 msgid "All files"
@@ -123,11 +123,11 @@ msgstr "Falló el guardado automático debido a un error: {1}"
 
 #: ../src/control/Control.cpp:218
 msgid "Autosave renamed from {1} to {2}"
-msgstr "Auto-guardado renombrado de {1} a {2}"
+msgstr "Se cambió el nombre del guardado automático de {1} a {2}"
 
 #: ../src/control/jobs/AutosaveJob.cpp:54
 msgid "Autosaving to {1}"
-msgstr "Guardando automáticamente en {1}"
+msgstr "Guardado automático en {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:405
 msgid "Back"
@@ -168,11 +168,11 @@ msgstr "Cambiar relleno de trazo"
 
 #: ../src/undo/SizeUndoAction.cpp:118
 msgid "Change stroke width"
-msgstr "Cambiar grosor de trazo"
+msgstr "Cambiar anchura de trazo"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:98
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
-msgstr "¡Color \"{1}\" desconocido! (No definido en la lista predeterminada de colores)"
+msgstr "Se desconoce el color «{1}» (no está definido en la lista de colores predeterminada)."
 
 #: ../src/gui/sidebar/indextree/SidebarIndexPage.cpp:257
 msgid "Contents"
@@ -202,19 +202,19 @@ msgstr "No se pudo crear la carpeta: {1}"
 
 #: ../src/control/LatexController.cpp:99
 msgid "Could not find kpsewhich in PATH; please install kpsewhich and put it on path."
-msgstr "No se puido atopar o programa «kpsewhich» no PATH; instáleo e engádao no PATH."
+msgstr "No se pudo encontrar el programa «kpsewhich» en PATH; instálelo y añádalo a PATH."
 
 #: ../src/control/LatexController.cpp:75
 msgid "Could not find pdflatex in PATH.\n"
 "Please install pdflatex first and make sure it's in the PATH."
 msgstr "No se pudo encontrar el programa «pdflatex» en PATH.\n"
-"Instálalo de antemano y cerciórate de que esté en PATH."
+"Instálelo de antemano y cerciórese de que esté en PATH."
 
 #: ../src/control/LatexController.cpp:104
 msgid "Could not find the LaTeX package 'standalone'.\n"
 "Please install standalone (found in texlive-latex-extra) and make sure it's accessible by your LaTeX installation."
 msgstr "No se pudo encontrar el paquete «standalone» de LaTeX.\n"
-"Instálalo (se encuentra en texlive-latex-extra) y cerciórate de que tu instalación de LaTeX pueda utilizarlo."
+"Instálelo (se encuentra en texlive-latex-extra) y cerciórese de que su instalación de LaTeX pueda utilizarlo."
 
 #: ../src/control/LatexController.cpp:449
 msgid "Could not load LaTeX PDF file"
@@ -482,7 +482,7 @@ msgstr "Error al leer el PDF: {1}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:631
 msgid "Error reading width of a stroke: {1}"
-msgstr "Error al consultar el grosor de un trazo: {1}"
+msgstr "Error al consultar la anchura de un trazo: {1}"
 
 #: ../src/control/jobs/ImageExport.cpp:128
 msgid "Error save image #1"
@@ -513,7 +513,7 @@ msgstr "Exportar PDF"
 #: ../src/util/Util.cpp:141 ../src/util/Util.cpp:158
 msgid "File couldn't be opened. You have to do it manually:\n"
 "URL: {1}"
-msgstr "No se pudo abrir el archivo. Deberá hacerlo manualmente:\n"
+msgstr "No se pudo abrir el archivo. Debe hacerlo manualmente:\n"
 "URL: {1}"
 
 #: ../src/control/Control.cpp:2221
@@ -534,7 +534,7 @@ msgstr "Cuadro de herramientas flotante (experimental)"
 
 #: ../src/gui/toolbarMenubar/FontButton.cpp:60
 msgid "Font"
-msgstr "Tipografía"
+msgstr "Tipo de letra"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:404
 msgid "Go to first page"
@@ -576,7 +576,7 @@ msgstr "Verde"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:384
 msgid "Grid Snapping"
-msgstr "Ajustar a la cuadrícula"
+msgstr "Acople de retícula"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:69
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:451
@@ -1334,7 +1334,7 @@ msgstr "El documento actual no contiene la página n.º {1} del PDF.\n"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:398
 msgid "Zoom fit to screen"
-msgstr "Ajustar a la pantalla"
+msgstr "Ajutar a la pantalla"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:397
 msgid "Zoom in"
@@ -1350,7 +1350,7 @@ msgstr "Control deslizante de escala"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:399
 msgid "Zoom to 100%"
-msgstr "Escala al 100%"
+msgstr "Escala al 100 %"
 
 #: ../src/control/Control.cpp:2593 ../src/control/jobs/BaseExportJob.cpp:21
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:12
@@ -1541,7 +1541,7 @@ msgstr "%a\t\tNombre de día abreviado (ej., jue)\n"
 "%c\t\tRepresentación de fecha y hora (ej., jue 23 ago 14:55:02 2001)\n"
 "%d\t\tDía del mes (01-31)\n"
 "%F\t\tRepresentación de fecha (ej., 2001-08-23)\n"
-"%H\t\tHora en formato 24 horas (00-23)\n"
+"%H\t\tHora en formato militar (00-23)\n"
 "%I\t\tHora en a. m./p. m. (01-12)\n"
 "%j\t\tDía del año (001-366)\n"
 "%m\tMes como número decimal (01-12)\n"
@@ -1678,7 +1678,7 @@ msgstr "<i>Si su equipo no admite el reconocimiento de manos, Xournal++ puede de
 
 #: ../ui/settings.glade:1092
 msgid "<i>Pressure Sensitivity allows you to draw lines with different widths, depending on how much pressure you apply to the pen. If your tablet does not support this feature this setting has no effect.</i>"
-msgstr "<i>La sensibilidad a la presión le permite trazar líneas de distinto grosor en función de la presión que aplique al lápiz. Si su tableta no admite esta funcionalidad, esta opción no surtirá efecto.</i>"
+msgstr "<i>La sensibilidad a la presión le permite trazar líneas de distintas anchuras en función de la presión que aplique al lápiz. Si su tableta no admite esta funcionalidad, esta opción no surtirá efecto.</i>"
 
 #: ../ui/settings.glade:2707
 msgid "<i>Put a ruler on your screen and move the slider until both rulers match.</i>"
@@ -2050,7 +2050,7 @@ msgstr "Ir a la página"
 
 #: ../ui/settings.glade:3097
 msgid "Grid snapping tolerance"
-msgstr "Tolerancia de ajuste a la cuadrícula"
+msgstr "Tolerancia de acople de retícula"
 
 #: ../ui/main.glade:1441
 msgid "H_and Tool"
@@ -2499,7 +2499,7 @@ msgstr "Corrector"
 
 #: ../ui/pagesize.glade:189
 msgid "Width:"
-msgstr "Ancho:"
+msgstr "Anchura:"
 
 #: ../ui/about.glade:232
 msgid "With help from the community"
@@ -2643,7 +2643,7 @@ msgstr "Ay_uda"
 
 #: ../ui/main.glade:1257
 msgid "_Highlighter"
-msgstr "Resaltador (_H)"
+msgstr "_Resaltador"
 
 #: ../ui/main.glade:524
 msgid "_Horizontal"
